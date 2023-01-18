@@ -1,0 +1,193 @@
+{
+	"RU": {
+		"SANCTUMWISP_BODY_NAME": "Сгусток святилища",
+		"SANCTUMWISP_BODY_LORE": "СкороТМ",
+		
+		"BELLTOWER_BODY_NAME": "Колокольня",
+		"BELLTOWER_BODY_SUBTITLE": "Непоколебимый наблюдатель",
+        "BELLTOWER_BODY_LORE": "<style=cMono>\r\n
+		Аудиотранскрипция завершена по эхо-сигналам. Назначение общих токенов.</style>\r\n
+		\r\n
+		Человек 1: Теперь ты видишь это? Массивная башня рядом со скалой? Да, так что я наблюдал за ним издалека, и он начал двигаться! Я хотел рассмотреть поближе, но эти медные штуковины не перестали роиться вокруг него, и мне не хочется кончить как Тарсон...\r\n
+		\r\n
+		[Громкий, глубокий звон эхом разносится по ландшафту]\r\n
+		\r\n
+		Человек 2: Блин, ты думаешь, это значит, что оно нашло нас?\r\n
+		\r\n
+		Человек 1: Не, мы довольно хорошо спрятались здесь. Оно бы увидело меня раньше.\r\n
+		\r\n
+		[Звук проносящегося рядом мяча с шипами]\r\n
+		\r\n
+		Человек 1: Забудь, они нашли нас! Беги!\r\n
+		\r\n
+		[Звук шелеста листвы, тяжелых шагов и затрудненного дыхания]\r\n
+		\r\n
+		[Звук нескольких шаров с шипами, летящих по воздуху]\r\n
+		\r\n
+		Человек 1: Какого!?! Откуда их столько?! Вокруг башни было не так много!!!\r\n
+		\r\n
+		Man 2: Чёрт! Они собираются снова стрелять!\r\n
+		\r\n
+		[Звук множества шипастых шаров, быстро пролетающих мимо]\r\n
+		\r\n
+		[Металлический хруст]\r\n
+		\r\n
+		[1:21:46.167 статики.]\r\n
+		\r\n
+		<style=cMono>Конец расшифровки запроса. </style>\r\n",
+		
+		"COILGOLEM_BODY_NAME": "Кольцевой голем",
+		"COILGOLEM_BODY_LORE": "\u201DЗемля гудит под ногами. Внезапно перед вами открывается дыра в скале, как будто земля утекает. Потом появляется оно! Массивный червь, сформированный из глубокого камня, вырывается наружу! Его тело состоит из больших кусков камней и каменных колец, плавающих вокруг центральной каменной колонны..\r\n
+		\r\n
+		Кажется, что они могут временно оттолкнуть камень перед собой в сторону, как если бы он был жидкостью, чтобы проложить путь. Когда они получают достаточно повреждений, они сбрасывают внешний слой камней и отступают обратно в землю. К сожалению, это означает, что у нас никогда не было возможности как следует просмотреть его. На данный момент мы не совсем уверены, какова их цель. Тот факт, что они покидают свою внешнюю оболочку при повреждении, и краткий анализ камней, которые они оставляют после себя, привели к теории, что они являются своего рода горнодобывающим оборудованием, возможно, используемым для получения компонентов для своих гуманоидных собратьев?\u201D\r\n
+		\r\n
+		- Тайны Петрикора V, Первый черновик",
+		
+		"FROSTWISP_BODY_NAME": "Морозный сгусток",
+		"FROSTWISP_BODY_LORE": "СкороТМ",
+		
+        "UNLOCKABLE_LOG_SANCTUMWISP": "Запись о монстре: Сгусток святилища",
+        "UNLOCKABLE_LOG_BELLTOWER": "Запись о монстре: Колокольня",
+        "UNLOCKABLE_LOG_COILGOLEM": "Запись о монстре: Кольцевой голем",
+        "UNLOCKABLE_LOG_FROSTWISP": "Запись о монстре: Морозный сгусток",
+
+        "INTERACTIBLE_RELICENERGY_NAME": "???",
+        "INTERACTIBLE_RELICENERGY_CONTEXT": "Изучить",
+        "INTERACTIBLE_BROKENTELEPORTER_NAME": "Сломаный телепорт",
+        "INTERACTIBLE_BROKENTELEPORTER_CONTEXTEND": "Сломаный телепорт",
+        "INTERACTIBLE_BROKENTELEPORTER_CONTEXT": "Поместить реликвию",
+		"INTERACTIBLE_BROKENTELEPORTER_ACTIVATED": "<style=cWorldEvent>Реликвия энергии резонирует.</style>",
+		"INTERACTIBLE_BROKENTELEPORTER_FAILED": "<style=cWorldEvent>Реликвия энергии взрывается!</style>",
+		
+        "INTERACTIBLE_BATTERYBANK_NAME": "Аккумуляторный банк",
+        "INTERACTIBLE_BATTERYBANK_NAMEFULL": "Зарядите аккумуляторный банк",
+        "INTERACTIBLE_BATTERYBANK_CONTEXT": "Замените топливные элементы ({0}/{1})",
+        "INTERACTIBLE_BATTERYBANK_CONTEXTCOMMAND": "Вставьте 2 зелёных предмета ({0}/{1})",
+		"OBJECTIVE_BATTERIES_INSERTED_TOKEN": "Зарядите топливный банк ({0}/{1})",
+        "INTERACTIBLE_STATICPORTAL_CONTEXT": "Вернутся на планету",
+        "INTERACTIBLE_BATTERYSOURCE_NAME": "Старый телепорт",
+        "INTERACTIBLE_BATTERYSOURCE_CONTEXT": "Активировать",
+        "INTERACTIBLE_STAGEORDERBUTTON_CONTEXT": "Сменить сеть телепорта",
+		
+		
+        "INTERACTIBLE_SHRINE_TAR_NAME": "Святилище смолы",
+        "INTERACTIBLE_SHRINE_TAR_CONTEXT": "Возложить на святилище.",
+        "PLAYER_TARCORRUPTION_QUOTE": "{0} погиб в смоле.",
+        "PLAYER_TARCORRUPTION_QUOTE_2P": "Ты погиб в смоле.",
+        "PLAYER_TARDEATH_QUOTE": "Осквернённое смолой тело {0} было похоронено.",
+        "PLAYER_TARDEATH_QUOTE_2P": "Ваше осквернённое смолой тело было похоронено.",
+		
+        "INTERACTIBLE_SLUMBERINGPEDESTAL_NAME": "Спящий пьедестал",
+        "INTERACTIBLE_SLUMBERINGPEDESTAL_CONTEXT": "Поместить реликвию",
+		"INTERACTIBLE_SLUMBERINGPEDESTAL_FINISHED": "<style=cWorldEvent>Пьедестал находится под напряжением.</style>",
+	
+        "INTERACTIBLE_SAGESSHRINE_NAME": "Святилище\' мудрецов",
+        "INTERACTIBLE_SAGESSHRINE_CONTEXT": "Возложить на святилище\' мудрецов",
+	
+		"HAZARD_GRAVMINE_NAME": "Гравитационная мина",
+		"HAZARD_LIGHTNINGROD_NAME": "Громоотвод",
+		"HAZARD_HARPOONBOX_NAME": "Гарпунная пусковая установка",
+		"HAZARD_RIGGEDCHEST_NAME": "Рифленый сундук",
+		
+		"HAZARD_BEACON_NAME", "Маяк путника"
+        "ITEM_RELICENERGY_NAME": "Реликвия энергии",
+        "ITEM_RELICENERGY_PICKUP": "Кажется, ничего не делает...",
+        "ITEM_RELICENERGY_DESC": "Кажется, ничего не делает. <style=cIsUtility>Может пригодится как-нибудь...?</style>",
+        "ITEM_RELICENERGY_LORE": "Некоторые вещи остались, забыто в прошлом.<style=cStack> Некоторые вещи, вероятно, лучше оставить так.</style>",
+        "CHARACTER_RELICENERGY_SUBTITLE": "Древняя батарея",
+        "ITEM_RELICEMPTY_NAME": "Пустая реликвия",
+        "ITEM_RELICEMPTY_PICKUP": "Выглядит израсходованным...",
+		
+        "ITEM_ESSENCEOFTAR_NAME": "Эссенция смолы",
+        "ITEM_ESSENCEOFTAR_PICKUP": "Вы стали смолой. <style=cDeath>Теперь нет пути назад.</style>",
+        "ITEM_ESSENCEOFTAR_DESC": "Станьте смолой, <style=cDeath>отключает нормальное лечение</style>. Атакуя врагов <style=cIsHealing>высасывает их здоровье</style>. <style=cDeath>Попытка избавится от эссенции будет караться смертью</style>",
+        "ITEM_ESSENCEOFTAR_LORE": "<style=cMono>\r\n
+		Добро пожаловать в «Инфоскреб» (v3.1.53 \u2013 бета-ответвление)\r\n
+		$ Сбор информации... завершено.\r\n
+		$ Подведение итогов... завершено.\r\n
+		$ Файлы просеиваются в поисках релевантной информации... завершено.\r\n
+		Успешно!\r\n
+		Выводятся локальные аудиозаписи...\r\n
+		</style>\r\n
+		\r\n
+		<style=cMono>День 13</style>\r\n
+		Я снова увидел, как они ползут по холмам. На данный момент я не уверен, что эта проклятая планета свела меня с ума, и действительно ли они там. Вода на исходе. Я надеялся, что эти водные пути могут привести к воде, но я нашел только смолу... \r\n
+		\r\n
+		...Не повезло, высадка в пустыне...\r\n
+		\r\n
+		... Во мне мало что осталось. Вода на исходе... \r\n
+		\r\n
+		Слушайте. Если кто-то действительно читает этот журнал, пожалуйста. Спасите себя. Здесь для вас нет ничего, кроме песка и смолы.\r\n
+		\r\n
+		<style=cMono>Локальные аудио транскрипции завершены.</style>\r\n",
+			
+        "ITEM_SAGESBOOK_NAME": "Книга\ мудреца",
+        "ITEM_SAGESBOOK_PICKUP": "Твоё прошлое будет <style=cIsUtility>знакомым</style>...",
+        "ITEM_SAGESBOOK_DESC": "Твоё прошлое будет <style=cIsUtility>знакомым</style>...",
+        "ITEM_SAGESBOOK_LORE": "Проклятие это или благословение, я не могу точно сказать. Каждый раз, когда я умираю, я снова оказываюсь здесь. Но (она) не позволит мне сказать ни души. Я не знаю, что хуже: бояться того, что придет после смерти, или быть вынужденным переживать это снова, и снова, и снова! Пожалуйста, кто-нибудь, помогите мне!",
+		
+        "ITEM_FALLBOOTSVOID_NAME": "Неземные опоры",
+        "ITEM_FALLBOOTSVOID_PICKUP": "Удерживайте «Взаимодействие», чтобы зависнуть в воздухе и зарядить гравитационную ударную волну.. И создайте <style=cIsUtility>анти-гравитационную зону</style>. <style=cIsVoid>Оскверняет все Г0Л080-60Й вер.2</style>",
+        "ITEM_FALLBOOTSVOID_DESC": "<style=cIsUtility>Зависните в воздухе</style> во время зарядки <style=cIsUtility>гравитационной ударной волны</style>, подбрасывает врагов в воздух, <style=cIsDamage>нанося 200-2000%</style> основного урона. После создайте <style=cIsUtility>анти-гравитационную зону</style> в радиусе <style=cIsUtility>30м</style> на <style=cIsUtility>15</style> секунд. Перезаряжается <style=cIsUtility>20</style> <style=cStack>(-50% за шт.)</style> секунд. <style=cIsVoid>Оскверняет все Г0Л080-60Й вер.2</style>.",
+        "ITEM_FALLBOOTSVOID_LORE": "СкороТМ",
+
+        "STAGE_FORGOTTENHAVEN_NAME": "Скрытая область: Забытое убежище",
+		"STAGE_FORGOTTENHAVEN_SUBTITLE": "Заброшенные творения",
+		"STAGE_FORGOTTENHAVEN_LORE": "СкороТМ",
+		"STAGE_FORGOTTENHAVEN_DREAM": "<style=cWorldEvent>Вы мечтаете ни о чем.</style>",
+		"UNLOCKABLE_LOG_FORGOTTENHAVEN": "Запись о окружающей среде: Забытое Убежище",
+		
+		"STAGE_DRYBASIN_NAME": "Выссушеная котловина",
+		"STAGE_DRYBASIN_SUBTITLE": "Пустые каналы",
+		"STAGE_DRYBASIN_LORE": "<style=cMono>\n
+		========================================\n
+		====   Машинный переводчик MyBabel   ====\n
+		====     [Версия 12.45.1.013 ]   ======\n
+		========================================\n
+		Изучение… <100000000 cycles>\n
+		Изучение… <100000000 cycles>\n
+		Изучение… <100000000 cycles>\n
+		Изучение… <52072734 cycles>\n
+		Поставлено на паузу...\n
+		Отобразить частичные результаты? Да/нет\n
+		Да\n
+		================================</style>\n
+		...и котловина была процветающей.\n
+		Пришли [поклонники смолы] и принесли с собой большой глиняный горшок.\n
+		Что они сделали, я не могу описать.\n
+		Монстры.\n
+		Я нашел способ сбежать.\n
+		Я нашел [святилище], которое могло излечить мою болезнь, но мои род нет.\n
+		У них осталось совсем немного времени, прежде чем они тоже станут монстрами.\n
+		Кажется, я один, сейчас.\n
+		В этой пустыне у меня нет дома.\n
+		\n
+		<style=cMono>\n
+		================================\n
+		Продолжить изучение? Да/нет\n
+		Да</style>\n",
+		"STAGE_DRYBASIN_DREAM": "<style=cWorldEvent>Вы мечтаете о бесконечной пустыне.</style>",
+		"UNLOCKABLE_LOG_DRYBASIN": "Запись о окружающей среде: Выссушеная котловина",
+	
+		"STAGE_WEATHEREDSATELLITE_NAME": "Спящий спутник",
+		"STAGE_WEATHEREDSATELLITE_SUBTITLE": "Надземный монолит",
+		"STAGE_WEATHEREDSATELLITE_LORE": "СкороТМ",
+		"STAGE_WEATHEREDSATELLITE_DREAM": "<style=cWorldEvent>Вы мечтаете о парящих в небе камнях.</style>",
+		"UNLOCKABLE_LOG_SLUMBERINGSATELLITE": "Запись о окружающей среде: Спящий спутник",
+		
+		"STAGE_WELKINSANCTUM_NAME": "Святилище Небосвода",
+		"STAGE_WELKINSANCTUM_SUBTITLE": "",
+		"STAGE_WELKINSANCTUM_LORE": "СкороТМ",
+		"STAGE_WELKINSANCTUM_DREAM": "<style=cWorldEvent>Вы мечтаете о золотых цепях.</style>",
+		"UNLOCKABLE_LOG_WELKINSANCTUM": "Запись о окружающей среде: Святилище Небосвода",
+
+                "EXPANSION_FORGOTTENRELICS_NAME": "Forgotten Relics",
+		"EXPANSION_FORGOTTENRELICS_DESC": "Добавляет в игру контент из мода 'Forgotten Relics'.",
+		
+		"PICKUP_PRIMESCRAP_COIN": "Первоначальный лом",
+		"PRIMESCRAP_PICKUP_CONTEXT": "Подобрал первоначальный лом",
+		
+		"FORGOTTENRELICS_WIPMESSAGE": "<style=cWorldEvent>Извините, этот контент находится в разработке и в настоящее время недоступен!</style>"
+    }
+}
+
