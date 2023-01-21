@@ -1,0 +1,10 @@
+{
+    "name": "RussiFUCKation",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/HEXXEDUDE/RussiFUCKation",
+    "description": " Руссифицирует модификации[ 1.0.4 Добавлен перевод Enforcer, также улучшен перевод PaladinMod ].",
+    "dependencies": [
+		"bbepis-BepInExPack-5.4.1903",
+		"tristanmcpherson-R2API-4.3.5"
+    ]
+}

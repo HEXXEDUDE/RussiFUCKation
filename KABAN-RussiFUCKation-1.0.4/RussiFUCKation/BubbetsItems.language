@@ -1,0 +1,16 @@
+{
+	"RU": 
+	"ACIDSOAKEDBLINDFOLD_NAME": "Пропитанная кислотой повязка",
+        "ACIDSOAKEDBLINDFOLD_PICKUP": "Наймите слепого паразита с предметами.",
+        "ACIDSOAKEDBLINDFOLD_DESC_SIMPLE": "Каждые 30 секунд, <style=cIsUtility>призывает слепого паразита</style> с <style=cIsUtility>10</style> <style=cIsStack>(+5 за шт.)</style> <color=#FFFFFF>Обычными</style> или <color=#77FF16>Необычными</style> предметами.",
+        "BUNNYFOOT_NAME": "Кроличья лапка",
+        "BUNNYFOOT_PICKUP": "Ваши маленькие ножки начинают дрожать.",
+        "BUNNYFOOT_DESC_SIMPLE": "Получите способность "Банни-хоп'а", увеличение управляемости в воздухе на <style=cIsUtility>150%</style> <style=cIsStack>(+150% за шт.)</style> и контроль прыжка на <style=cIsUtility>50%</style> <style=cIsStack>(+50% за шт.)</style>.",
+        "DECREASEBARRIERDECAY_NAME": "Механическая улитка",
+        "DECREASEBARRIERDECAY_PICKUP": "Замедляет разрушение барьера.",
+        "DECREASEBARRIERDECAY_DESC_SIMPLE": "Умножает разрушение <style=cIsHeal>барьера</style> на <style=cIsHeal>83%</style> <style=cIsStack>(складывается экспоненциально)</style>.",
+        "ESCAPE_PLAN_NAME": "План побега",
+        "ESCAPE_PLAN_PICKUP": "Чем ближе ты к смерти, тем больше <style=cIsUtility>скорость передвижения</style>"
+        "ESCAPE_PLAN_DESC_SIMPLE": "Даёт <style=cIsUtility>75%</style> <style=cIsStack>(+10 за шт.)</style> скорости передвижения, с <style=cIsDeath>уменьшением здоровья</style>."
+	}
+}
