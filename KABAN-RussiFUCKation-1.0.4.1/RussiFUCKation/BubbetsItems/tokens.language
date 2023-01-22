@@ -1,0 +1,83 @@
+{
+  "strings": {
+  "BUB_JELLIEDSOLES_NAME": "Желейные подошвы",
+  "BUB_JELLIEDSOLES_DESC": "降低<style=cIsUtility>坠落伤害</style>的<style=cIsUtility>{0:0%}</style>.附加减免的伤害{1}至你的下一次攻击中.",
+  "BUB_JELLIEDSOLES_DESC_SIMPLE": "降低<style=cIsUtility>坠落伤害</style>的<style=cIsUtility>15%</style><style=cStack>(+15%每层)</style>并附加<style=cIsUtility>100%</style><style=cStack>(+100%每层)</style>被减免的伤害到你的下一次攻击中.随等级增长.",
+  "BUB_JELLIEDSOLES_PICKUP": "降低<style=cIsUtility>坠落伤害</style>. 附加减免的伤害至你的下一次攻击中.",
+
+
+  "BUB_HEAL_FROM_DOT_INFLICTED_ITEM_NAME": "折磨者",
+  "BUB_HEAL_FROM_DOT_INFLICTED_ITEM_DESC": "一定时间内造成伤害的<style=cIsHealing>{0:0.#%}</style>会<style=cIsHealing>治疗</style>你自己.",
+  "BUB_HEAL_FROM_DOT_INFLICTED_ITEM_DESC_SIMPLE": "一定时间内造成伤害的<style=cIsHealing>5%</style><style=cStack>(+2.5%每层)</style>会<style=cIsHealing>治疗</style>你自己.",
+  "BUB_HEAL_FROM_DOT_INFLICTED_ITEM_PICKUP": "一定时间内造成的伤害会<style=cIsHealing>治疗</style>你自己.",
+
+  "BUB_BUNNYFOOT_NAME": "Кроличья лапка",
+  "BUB_BUNNYFOOT_DESC": "获得兔子跳的能力. 滞空操控: {0}, 跳跃操控: {3}",
+  "BUB_BUNNYFOOT_DESC_SIMPLE": "获得兔子跳的能力, 提高滞空操控<style=cIsUtility>150%</style><style=cStack>(+150%每层)</style>和跳跃操控<style=cIsUtility>50%</style><style=cStack>(+50%每层)</style>.",
+  "BUB_BUNNYFOOT_PICKUP": "你的小脚在微微颤抖.",
+
+  "BUB_TIMED_BUFF_DURATION_ITEM_NAME": "Изобильные песчаные часы",
+  "BUB_TIMED_BUFF_DURATION_ITEM_DESC": "<style=cIsDamage>增益</style>时间变为<style=cIsUtility>{0}</style>.",
+  "BUB_TIMED_BUFF_DURATION_ITEM_DESC_SIMPLE": "<style=cIsDamage>增益</style>时间变为<style=cIsUtility>125%</style><style=cStack>(+10%每层)</style>.",
+  "BUB_TIMED_BUFF_DURATION_ITEM_PICKUP": "<style=cIsDamage>增益</style>持续时间提高了.",
+
+  "BUB_ACIDSOAKEDBLINDFOLD_NAME": "Пропитанная кислотой повязка",
+  "BUB_ACIDSOAKEDBLINDFOLD_PICKUP": "Наймите слепого паразита с предметами.",
+  "BUB_ACIDSOAKEDBLINDFOLD_DESC": "每过 {3} 秒, 召唤<style=cIsUtility>一只盲鼠</style>带着<style=cIsUtility>{1}</style>个<color=#FFFFFF>白色</color>或<color=#00FF00>绿色</color>的物品.",
+  "BUB_ACIDSOAKEDBLINDFOLD_DESC_SIMPLE": "Каждые 30 секунд, <style=cIsUtility>призывает слепого паразита</style> с <style=cIsUtility>10</style> <style=cStack>(+5 за шт.)</style> <color=#FFFFFF>Обычными</color> или <color=#00FF00>Необычными</color> предметами.",
+  "BUB_ACIDSOAKEDBLINDFOLD_LORE": "这是什么味?",
+
+  "BUB_ESCAPE_PLAN_NAME": "План побега",
+  "BUB_ESCAPE_PLAN_DESC": "移动速度提高<style=cIsUtility>{0:0%}</style>. 距离<style=cDeath>死亡</style>越近,加成越高.",
+  "BUB_ESCAPE_PLAN_DESC_SIMPLE": "获得<style=cIsUtility>75%</style><style=cStack>(+10%每层)</style>的移动速度, <style=cDeath>生命值越低</style>加成越高",
+  "BUB_ESCAPE_PLAN_PICKUP": "提高<style=cIsUtility>移动速度</style>随生命值降低提高.",
+  "BUB_ESCAPE_PLAN_LORE": "是时候跑路了",
+
+  "BUB_REPULSION_ARMOR_MK2_NAME": "推斥护甲板Mk2",
+  "BUB_REPULSION_ARMOR_MK2_DESC_REDUCTION": "降低所有<style=cIsDamage>受到的伤害</style>,减免<style=cIsDamage>{0:#,###;#,###;0}</style>. 不能低于<style=cIsDamage>1</style>点. 随着拥有的<style=cIsUtility>推斥护甲板</style>提高.",
+  "BUB_REPULSION_ARMOR_MK2_DESC_ARMOR": "提高<style=cIsHealing>护甲</style><style=cIsHealing>{0}</style>点, 随着拥有的<style=cIsUtility>推斥护甲板</style>增加.",
+  "BUB_REPULSION_ARMOR_MK2_DESC_REDUCTION_SIMPLE": "降低所有<style=cIsDamage>受到的伤害</style>,减免<style=cIsDamage>20</style><style=cStack>(+推斥护甲板数量)</style>. 不能降低到<style=cIsDamage>1</style>点以下. 随着拥有的<style=cIsUtility>推斥护甲板</style>提高.",
+  "BUB_REPULSION_ARMOR_MK2_DESC_ARMOR_SIMPLE": "Increase<style=cIsHealing>护甲</style><style=cIsHealing>20</style><style=cStack>(+推斥护甲板数量)</style>. 随着拥有的<style=cIsUtility>推斥护甲板</style>提高.",
+  "BUB_REPULSION_ARMOR_MK2_PICKUP": "受到的伤害根据你拥有的<style=cIsUtility>推斥护甲板</style>降低.",
+  "BUB_REPULSION_ARMOR_MK2_LORE": "运单: 试验性推斥护甲板增强 - Mk.2\r\n追踪数值: 07 **\r\n预计投放时间: 10/23/2058\r\n运输方式: 安全, 高优先级\r\n投放地点: 星系警卫站13/ 马尔夫港口, 木卫三\r\n投放细节:\r\n\r\n指令包含尖端科技的物品, 旨在降低用户在极端环境中受到的伤害. 在提供保护的基础上, Mk.2的智能纳米机器人网络增强了用户已经安装的现有保护。由于13号车站周围马尔夫港地区的犯罪率有所上升, 这种设备可能是非常必要的, 驻扎人员受伤的风险更高, 因此需要增加用于确保其安全的措施。\r\n与Mk2相关的采购和生产成本远高于其先前迭代的成本, 然而, 效率的显著提高涵盖了成本, 尽管成本可能无法想象",
+
+
+
+
+  "BUB_CEREMONIALPROBE_NAME": "仪式胸针",
+  "BUB_CEREMONIALPROBE_DESC": "低于<style=cIsHealth>{0:0%}生命值</style>将导致<style=cIsHealing>屏障消退</style>停止.",
+  "BUB_CEREMONIALPROBE_DESC_SIMPLE": "<style=cIsHealing>屏障消退</style>在你的生命值低于<style=cIsHealth>59%</style><style=cStack>(双曲线叠加, 上限100%)</style>时会停止.",
+  "BUB_CEREMONIALPROBE_PICKUP": "低生命值时暂停屏障消退.",
+  "BUB_CEREMONIALPROBE_LORE": "",
+
+  "BUB_DECREASEBARRIERDECAY_NAME": "机械蜗牛",
+  "BUB_DECREASEBARRIERDECAY_DESC": "<style=cIsHealing>降低屏障消退速度</style>为<style=cIsHealing>{0:0%}</style>.",
+  "BUB_DECREASEBARRIERDECAY_DESC_SIMPLE": "<style=cIsHealing>降低屏障消退速度</style>为<style=cIsHealing>83%</style><style=cStack>(指数叠加)</style>.",
+  "BUB_DECREASEBARRIERDECAY_PICKUP": "降低屏障消退速度.",
+  "BUB_DECREASEBARRIERDECAY_LORE": "",
+
+  "BUB_BONEVISOR_NAME": "骨质面具",
+  "BUB_BONEVISOR_DESC": "击杀敌人<style=cIsHealing>降低屏障消退速度</style>为<style=cIsHealing>{1:0%}</style>持续<style=cIsUtility>{0}</style>秒.",
+  "BUB_BONEVISOR_DESC_SIMPLE": "击杀敌人<style=cIsHealing>降低屏障消退速度</style>为<style=cIsHealing>95%</style><style=cStack>(-5%每层)</style>并持续<style=cIsUtility>3</style><style=cStack>(+2每层)</style>秒.",
+  "BUB_BONEVISOR_PICKUP": "击杀敌人会暂时降低屏障消退速度.",
+  "BUB_BONEVISOR_LORE": "这里有一个骨头文明部落吗？我在火星上的一处古代遗址附近发现了这个，至今还没有找到它的起源.",
+
+  "BUB_GEMCARAPACE_NAME": "宝石外壳",
+  "BUB_GEMCARAPACE_DESC": "受伤{1}秒后, 获得<style=cIsHealing>{0:0%}的临时屏障</style>, 最多触发{2}次.",
+  "BUB_GEMCARAPACE_DESC_SIMPLE": "获得18%的<style=cIsHealing>临时屏障</style>, 受伤1<style=cStack>(+0.75每层)</style>秒后触发.最多触发1<style=cStack>(+1每层)</style>次.",
+  "BUB_GEMCARAPACE_PICKUP": "受到伤害后延迟获得临时屏障.",
+  "BUB_GEMCARAPACE_LORE": "",
+
+  "BUB_CLAYCATALYST_NAME": "粘土催化",
+  "BUB_CLAYCATALYST_DESC": "传送器事件中释放一道<style=cIsHealing>{0}米的屏障波</style>同时所有友军<style=cIsHealing>降低屏障消退速度</style>为<style=cIsHealing>{1:0%}</style>.",
+  "BUB_CLAYCATALYST_DESC_SIMPLE": "传送器和坚守事件中释放一道<style=cIsHealing>13m</style><style=cStack>(+3m每层)</style>的<style=cIsHealing>屏障效果</style>, 同时友军<style=cIsHealing>降低屏障消退速度</style>为<style=cIsHealing>80%</style><style=cStack>(-11%每层)</style>.",
+  "BUB_CLAYCATALYST_PICKUP": "传送器和坚守事件中降低屏障消退速度.",
+  "BUB_CLAYCATALYST_LORE": "",
+
+  "BUB_ETERNALSLUG_NAME": "永生蛞蝓",
+  "BUB_ETERNALSLUG_DESC": "<style=cIsHealing>临时屏障</style>不会自然消退至<style=cIsHealing>{0:0%}</style>以下.",
+  "BUB_ETERNALSLUG_DESC_SIMPLE": "<style=cIsHealing>临时屏障</style>不会自然消退至<style=cIsHealing>36%</style><style=cStack>(对数叠加, 最高80%)</style>以下",
+  "BUB_ETERNALSLUG_PICKUP": "屏障的自然消退不会低于一定程度.",
+  "BUB_ETERNALSLUG_LORE": "令人着迷的是，这种外星物种似乎被完美地保存在一种类似琥珀的外星物质中，但却散发着…。草莓味？这里的小蕨类植物一定会永远生活在这个琥珀里."
+  }
+}
