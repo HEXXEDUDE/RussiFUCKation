@@ -48,11 +48,28 @@ Shaman (сделан StormRiders, перевод сделал Radik)
 
 ChaoticSkills (сделан pseudopulse)
 
+Ravager (сделан rob_gaming)
+
+Deputy (сделан Bog)
+
+# С К Р И Н Ш О Т Ы
+
+![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/9d62d6e5-6f71-4b0d-a3cb-9d28ac2e9009)
+
+![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/b9c53e86-0bf2-467b-a3a5-29f2625863b1)
+
+![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/fbf3992b-e450-470e-a362-df9dd7828f88)
+
+![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/06a00b5f-50e7-4216-9ed1-0db7b77a33ef)
+
+
 # К О Н Т А К Т Ы
 
 Мой дискорд: hexxedude
 
 # В Е Р С И И
+
+1.1.5 - Добавлен перевод Ravager и Deputy. Обновлён перевол Shaman.
 
 1.1.4 - Добавлен перевод Shaman и ChaoticSkills.
 
