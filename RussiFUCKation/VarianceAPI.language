@@ -1,0 +1,63 @@
+{
+    "RU" : {
+        "VAPI_EXPANSION_NAME": "ДисперсияИПП",
+        "VAPI_EXPANSION_DESC": "Позволяет вариантам появляться в игре.",
+
+        "VAPI_ARTIFACT_VARIANCE_NAME" : "Артефакт дисперсии",
+        "VAPI_ARTIFACT_VARIANCE_DESC" : "Частота появления вариантов умножается на 2",
+
+        "VAPI_ITEM_EXTRAPRIMARY_NAME" : "Extra Primary Skill",
+        "VAPI_ITEM_EXTRAPRIMARY_PICKUP" : "Gain an additional stack of your primary skill.",
+        "VAPI_ITEM_EXTRAPRIMARY_DESC" : "Gain an additional stack of your primary skill.",
+
+        "VAPI_ITEM_EXTRASECONDARY_NAME" : "Extra secondary Skill",
+        "VAPI_ITEM_EXTRASECONDARY_PICKUP" : "Gain an additional stack of your secondary skill.",
+        "VAPI_ITEM_EXTRASECONDARY_DESC" : "Gain an additional stack of your secondary skill.",
+
+        "VAPI_ITEM_EXTRAUTILITY_NAME" : "Extra utility Skill",
+        "VAPI_ITEM_EXTRAUTILITY_PICKUP" : "Gain an additional stack of your utility skill.",
+        "VAPI_ITEM_EXTRAUTILITY_DESC" : "Gain an additional stack of your utility skill.",
+
+        "VAPI_ITEM_EXTRASPECIAL_NAME" : "Extra special Skill",
+        "VAPI_ITEM_EXTRASPECIAL_PICKUP" : "Gain an additional stack of your special skill.",
+        "VAPI_ITEM_EXTRASPECIAL_DESC" : "Gain an additional stack of your special skill.",
+
+        "VAPI_ITEM_GLOBALCDR_NAME" : "Global Cooldown Reduction",
+        "VAPI_ITEM_GLOBALCDR_PICKUP" : "Reduces the cooldowns of ALL your skills by 1%.",
+        "VAPI_ITEM_GLOBALCDR_DESC" : "Reduces the cooldowns of ALL your skills by 1%.",
+
+        "VAPI_ITEM_PRIMARYCDR_NAME" : "Primary Cooldown Reduction",
+        "VAPI_ITEM_PRIMARYCDR_PICKUP" : "Reduces the cooldown of your primary skill by 1%.",
+        "VAPI_ITEM_PRIMARYCDR_DESC" : "Reduces the cooldown of your primary skill by 1%.",
+
+        "VAPI_ITEM_SECONDARYCDR_NAME" : "Secondary Cooldown Reduction",
+        "VAPI_ITEM_SECONDARYCDR_PICKUP" : "Reduces the cooldown of your secondary skill by 1%.",
+        "VAPI_ITEM_SECONDARYCDR_DESC" : "Reduces the cooldown of your secondary skill by 1%.",
+
+        "VAPI_ITEM_UTILITYCDR_NAME" : "Utility Cooldown Reduction",
+        "VAPI_ITEM_UTILITYCDR_PICKUP" : "Reduces the cooldown of your utility skill by 1%.",
+        "VAPI_ITEM_UTILITYCDR_DESC" : "Reduces the cooldown of your utility skill by 1%.",
+
+        "VAPI_ITEM_SPECIALCDR_NAME" : "Special Cooldown Reduction",
+        "VAPI_ITEM_SPECIALCDR_PICKUP" : "Reduces the cooldown of your special skill by 1%.",
+        "VAPI_ITEM_SPECIALCDR_DESC" : "Reduces the cooldown of your special skill by 1%.",
+    
+        "VAPI_ITEM_PLUS1CRIT_NAME" : "+1 Крит",
+        "VAPI_ITEM_PLUS1CRIT_PICKUP" : "Увеличивает шанс критического удара на 1%.",
+        "VAPI_ITEM_PLUS1CRIT_DESC" : "Увеличивает шанс критического удара на 1%.",
+
+        "VAPI_ITEM_GREENHEALTHBAR_NAME" : "Зелёная шкала здоровья",
+        "VAPI_ITEM_GREENHEALTHBAR_PICKUP" : "Ваша шкала здоровья зеленого цвета.",
+        "VAPI_ITEM_GREENHEALTHBAR_DESC" : "Ваша шкала здоровья зеленого цвета.",
+
+        "VAPI_GENERIC_ARRIVAL": "A {0} with unique properties has appeared!",
+
+        "VAPI_RULE_HEADER_VARIANTPACKS": "Пакеты вариантов",
+        "VAPI_RULE_HEADER_VARIANTPACKS_SUBTITLE": "Пакеты вариантов — это настраиваемые пакеты вариантов, которые предоставят настраиваемые и уникальные варианты врагов в игре. Каждый пакет можно включить или отключить.",
+        
+        "VAPI_RULE_HEADER_VARIANTS": "Индивидуальные варианты",
+        "VAPI_RULE_HEADER_VARIANTS_SUBTITLE": "Отдельные варианты, которые могут появиться в этом забеге. Каждый вариант может принести вам несчастье, веселье или ужасную смерть.",
+        "VAPI_RULE_VARIANT_ON_DESCRIPTION": "Этот вариант сможет появиться в этом забеге.",
+        "VAPI_RULE_VARIANT_OFF_DESCRIPTION": "Этот вариант не может появиться в этом забеге."
+    }
+}

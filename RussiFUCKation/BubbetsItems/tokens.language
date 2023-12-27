@@ -1,0 +1,187 @@
+{
+  "RU": {
+  "BUB_JELLIEDSOLES_NAME": "Желейные подошвы",
+  "BUB_JELLIEDSOLES_DESC_SIMPLE": "Уменьшает <style=cIsUtility>урон от падения</style> на <style=cIsUtility>15%</style> <style=cStack>(+15% за шт.)</style> и преобразует <style=cIsUtility>100%</style> <style=cStack>(+100% за шт.)</style> убранный урон в вашу следующую атаку. Суммируется от уровня.",
+  "BUB_JELLIEDSOLES_PICKUP": "Уменьшает <style=cIsUtility>урон от падения.</style>. Преобразует это уменьшение в вашу следующую атаку.",
+
+
+  "BUB_HEAL_FROM_DOT_INFLICTED_ITEM_NAME": "Мучитель",
+  "BUB_HEAL_FROM_DOT_INFLICTED_ITEM_DESC_SIMPLE": "<style=cIsHealing>Исцеляет</style> вас на <style=cIsHealing>5%</style> <style=cStack>(+2.5% за шт.)</style> от наносимого урона с течением времени.",
+  "BUB_HEAL_FROM_DOT_INFLICTED_ITEM_PICKUP": "<style=cIsHealing>Исцеляет</style> от нанесенного урона с течением времени.",
+
+  "BUB_BUNNYFOOT_NAME": "Кроличья лапка",
+  "BUB_BUNNYFOOT_DESC_SIMPLE": "Получите способность «банни-хоп'а», увеличивает управляемость в воздухе на <style=cIsUtility>150%</style> <style=cStack>(+150% за шт.)</style> и управляемость прыжка на <style=cIsUtility>50%</style> <style=cStack>(+50% за шт.)</style>.",
+  "BUB_BUNNYFOOT_PICKUP": "Ваши маленькие ножки начинают дрожать.",
+
+  "BUB_TIMED_BUFF_DURATION_ITEM_NAME": "Изобилующие песчаные часы",
+  "BUB_TIMED_BUFF_DURATION_ITEM_DESC_SIMPLE": "Увеличивает длительность <style=cIsDamage>положительных эффектов</style> на <style=cIsUtility>125%</style> <style=cStack>(+10% за шт.)</style>.",
+  "BUB_TIMED_BUFF_DURATION_ITEM_PICKUP": "Длительность <style=cIsDamage>положительных эффектов</style> увеличена.",
+
+  "BUB_ACIDSOAKEDBLINDFOLD_NAME": "Пропитанная кислотой повязка",
+  "BUB_ACIDSOAKEDBLINDFOLD_PICKUP": "Наймите слепого паразита с предметами.",
+  "BUB_ACIDSOAKEDBLINDFOLD_DESC_SIMPLE": "Каждые 30 секунд, <style=cIsUtility>призывает слепого паразита</style> с <style=cIsUtility>10</style> <style=cStack>(+5 за шт.)</style> <color=#FFFFFF>Обычными</color> или <color=#00FF00>Необычными</color> предметами.",
+  "BUB_ACIDSOAKEDBLINDFOLD_LORE": "Что это за запах?",
+
+  "BUB_ESCAPE_PLAN_NAME": "План побега",
+  "BUB_ESCAPE_PLAN_DESC_SIMPLE": "Получите <style=cIsUtility>75%</style> <style=cStack>(+10% за шт.)</style> скорости передвижения, которая увеличивается с <style=cDeath>снижающимся здоровьем</style>.",
+  "BUB_ESCAPE_PLAN_PICKUP": "Чем ближе вы к смерти, тем больше <style=cIsUtility>скорость передвижения</style>.",
+
+  "BUB_REPULSION_ARMOR_MK2_NAME": "Отталкивающая бронепластина вер.2",
+  "BUB_REPULSION_ARMOR_MK2_DESC_REDUCTION_SIMPLE": "Уменьшает весь <style=cIsDamage>входящий урон</style> на <style=cIsDamage>20</style> <style=cStack>(+количество пластин)</style>. Урон не может быть меньше <style=cIsDamage>1</style>. Суммируется от того, сколько <style=cIsUtility>Отталкивающих бронепластин</style> у вас есть.",
+  "BUB_REPULSION_ARMOR_MK2_DESC_ARMOR_SIMPLE": "<style=cIsHealing>Увеличивает броню</style> на <style=cIsHealing>20</style> <style=cStack>(+количество пластин)</style>. Суммируется от того, сколько <style=cIsUtility>Отталкивающих бронепластин</style> у вас есть.",
+  "BUB_REPULSION_ARMOR_MK2_PICKUP": "Получите снижение урона от всех атак в зависимости от каждой <style=cIsUtility>отталкивающей пластины</style>.",
+  "BUB_REPULSION_ARMOR_MK2_LORE": "Заказ: Экспериментальные усиления отталкивающей брони - вер.2\r\nОтслеживающий код: 07 **\r\nПримерная дата доставки: 10/23/2058\r\nСпособ доставки: безопасный, высокий приоритет\r\nАдрес доставки: Системный полицейский участок 13/ Порт Марв, Ганимед\r\nДетали доставки:\r\n\r\nЗаказ содержит передовые экспериментальные технологии, направленные на снижение риска причинения вреда пользователям даже в самых суровых условиях. Помимо обеспечения защиты вер.2 умная сеть нано-ботов усиливает уже существующую защиту, установленную пользователем. Такое оборудование может оказаться крайне необходимым, поскольку уровень преступности в районе порта Марв вокруг станции 13 вырос, а более высокий риск травм для дислоцированных офицеров требует усиления мер, используемых для обеспечения их безопасности.\r\n\r\nСтоимость покупки и производства, связанная с вер.2, значительно выше, чем у его предыдущих итераций, однако значительное повышение эффективности покрывает затраты, какими бы значительными они ни были.",
+
+
+
+
+  "BUB_CEREMONIALPROBE_NAME": "Церемониальный зонд",
+  "BUB_CEREMONIALPROBE_DESC_SIMPLE": "Предотвращает <style=cIsHealing>разрушение барьера</style> когда у вас <style=cIsHealth>59% здоровья</style> <style=cStack>(складывается гиперболически, ограничивается 100% порогом здоровья)</style>.",
+  "BUB_CEREMONIALPROBE_PICKUP": "Приостанавливает разрушение барьера при низком уровне здоровья.",
+
+  "BUB_DECREASEBARRIERDECAY_NAME": "Механическая улитка",
+  "BUB_DECREASEBARRIERDECAY_DESC_SIMPLE": "Замедляет <style=cIsHealing>разрушение барьера</style> на <style=cIsHealing>83%</style> <style=cStack>(складывается экспоненциально)</style>.",
+  "BUB_DECREASEBARRIERDECAY_PICKUP": "Замедление разрушения барьера.",
+
+  "BUB_BONEVISOR_NAME": "Костяной визор",
+  "BUB_BONEVISOR_DESC_SIMPLE": "При убийстве врага даёт положительный эффект который <style=cIsHealing>замедляет разрушение барьера</style> на <style=cIsHealing>95%</style> <style=cStack>(+5% за шт.)</style>, и длится <style=cIsUtility>3</style> <style=cStack>(+2 за шт.)</style> секунды.",
+  "BUB_BONEVISOR_PICKUP": "Убийство врага даёт положительный эффект, который временно замедляет разрушение барьера.",
+  "BUB_BONEVISOR_LORE": "Может быть, где-то здесь затерялось племя костей? Я нашел это рядом с древними руинами на Марсе и до сих пор не понял, откуда они взялись.",
+
+  "BUB_GEMCARAPACE_NAME": "Драгоценный панцирь",
+  "BUB_GEMCARAPACE_DESC_SIMPLE": "Получите <style=cIsHealing>18% временного барьера</style>, после 1 <style=cStack>(+0.75 за шт.)</style> секунд получения урона. Активируется до 1 <style=cStack>(+1 за шт.)</style> раза.",
+  "BUB_GEMCARAPACE_PICKUP": "Получите временный барьер с задержкой после получения урона.",
+
+  "BUB_CLAYCATALYST_NAME": "Глиняный катализатор",
+  "BUB_CLAYCATALYST_DESC_SIMPLE": "Выпускает <style=cIsHealing>13 м</style> <style=cStack>(+3 м за шт.)</style> <style=cIsHealing>эффект барьера</style> для всех союзников в событиях телепорта и зонах удержания, <style=cIsHealing>замедляет разрушение барьера</style> на <style=cIsHealing>80%</style> <style=cStack>(+11% за шт.)</style>.",
+  "BUB_CLAYCATALYST_PICKUP": "Замедляет разрушение барьера рядом с активным телепортом или зонами удержания, такими как клетки в полях Пустоты.",
+
+  "BUB_ETERNALSLUG_NAME": "Вечный слизень",
+  "BUB_ETERNALSLUG_DESC_SIMPLE": "Останавливает <style=cIsHealing> временный барьер </style> от естественного разрушения на <style=cIsHealing>36%</style> <style=cStack>(складывается логарифмически, до 80%)</style>.",
+  "BUB_ETERNALSLUG_PICKUP": "Останавливает разрушение барьера в определенный момент.",
+  "BUB_ETERNALSLUG_LORE": "Удивительно, но этот инопланетный вид прекрасно сохранился во внеземной субстанции, похожей на янтарь, но с запахом… клубники? Маленький папоротник, безусловно, будет жить вечно в этом янтаре.\r\n\t- Доктор археологии Джемо на исследовательском борту UES Contact Light",
+
+  "BUB_EXPANSION_NAME": "Bubbet's Content",
+  "BUB_EXPANSION_DESC": "Добавляет в игру контент из мода 'Bubbets Items'.",
+
+  "BUB_EXPANSION_VOID_NAME": "Bubbet's Void Content",
+  "BUB_EXPANSION_VOID_DESC": "Добавляет в игру пустотный контент из мода 'Bubbets Items' и требует Survivors of the Void.",
+
+  "BUB_RECURSIONBULLETS_NAME": "Пули рекурсии",
+  "BUB_RECURSIONBULLETS_CONVERT": "<style=cIsVoid>Оскверняет все Бронебойные пули</style>.",
+  "BUB_RECURSIONBULLETS_PICKUP": "Атакуя боссов увеличивает скорость атаки. ",
+  "BUB_RECURSIONBULLETS_DESC_SIMPLE": "Атакуя боссов увеличивает <style=cIsDamage>скорость атаки</style> на <style=cIsDamage>5%</style>, ограничение в <style=cIsDamage>10%</style> <style=cStack>(+10 за шт.)</style> <style=cIsDamage>скорости атаки</style>. ",
+  "BUB_RECURSIONBULLETS_LORE": "Я только что протестировал эти необычные пули, которые я нашел, закопаные возле заброшенного участка испытаний, и они появились в моем магазине. Я наткнулся на то, чего не должен был... этот материал испускает странную ауру, когда я использую ее. Они оба не повреждены... может быть, мне следовало оставить их там, где я их нашел. Пока я оставлю их запертыми на складе.",
+
+  "BUB_SCINTILLATINGJET_NAME": "Сверкающий гагат",
+  "BUB_SCINTILLATINGJET_CONVERT": "<style=cIsVoid>Оскверняет все Опалы причудливой формы</style>.",
+  "BUB_SCINTILLATINGJET_PICKUP": "Временно уменьшает урон после получения урона. ",
+  "BUB_SCINTILLATINGJET_DESC_SIMPLE": "При получении урона <style=cIsHealing>увеличивает броню</style> на <style=cIsHealing>20</style> <style=cStack>(+10 за шт.)</style> на 2 секунды. ",
+  "BUB_SCINTILLATINGJET_LORE": "Что значит гагат не драгоценный камень? Это явно он!",
+
+  "BUB_SHIFTEDQUARTZ_NAME": "Смещённый кварц",
+  "BUB_SHIFTEDQUARTZ_CONVERT": "<style=cIsVoid>Оскверняет все Кристаллы сосредоточения</style>.",
+  "BUB_SHIFTEDQUARTZ_PICKUP": "Наносит дополнительный урон, если поблизости нет врагов. ",
+  "BUB_SHIFTEDQUARTZ_DESC_SIMPLE": "Увеличивает наносимый урон на <style=cIsDamage>15%</style> <style=cStack>(+15% за шт.)</style>, когда в радиусе <style=cIsDamage>18 м</style> от вас нет врагов. ",
+
+  "BUB_SUBMERGINGCISTERN_NAME": "Погружная цистерна",
+  "BUB_SUBMERGINGCISTERN_DESC_SIMPLE": "Во время боя ближайший 1 <style=cStack>(+1 за шт.)</style> союзник в пределах <style=cIsUtility>20 м</style> от вас будет привязан. Нанесение урона <style=cIsHealing>лечит</style> привязанных союзников на <style=cIsUtility>50%</style> нанесенного урона. <style=cIsHealing>Исцеление</style> делится между союзниками. <style=cIsVoid>Оскверняет все Загрязнённые урны</style>.",
+  "BUB_SUBMERGINGCISTERN_PICKUP": "Исцеляет ближайших союзников в зависимости от вашего урона. Разделяется на всех товарищей по команде в радиусе действия. <style=cIsVoid>Оскверняет все Покрытые грязью урны</style>.",
+
+  "BUB_VOIDBLINDFOLD_NAME": "Трагедия старого провидца",
+  "BUB_VOIDBLINDFOLD_CONVERT": "<style=cIsVoid>Оскверняет все Пропитанные кислотой повязки</style>.",
+  "BUB_VOIDBLINDFOLD_PICKUP": "Создайте прилипалу с предметами при убийстве врага. ",
+  "BUB_VOIDBLINDFOLD_DESC_SIMPLE": "Убийство врага <style=cIsUtility>создаёт</style> <style=cIsVoid>прилипалу</style> с <style=cIsUtility>3</style> <style=cStack>(+3 за шт.)</style> <style=cIsVoid>обычными пустотными предметами</style>. Максимум <style=cIsVoid>прилипал</style> <style=cIsUtility>1</style> <style=cStack>(+1 за шт.)</style>. ",
+  "BUB_VOIDBLINDFOLD_LORE": "Зашли как-то в бар <style=cIsHealing>малахитовый лемурианец старейшина</style>, <style=cIsDamage>каменный титан</style> и <style=cIsHealth>слепой паразит</style>, а бармен достаёт ружьё и говорит: У меня только две пули... и стреляет два раза в <style=cIsHealth>слепого паразита</style>.",
+
+  "BUB_VOIDHOURGLASS_NAME": "Неполные водяные часы",
+  "BUB_VOIDHOURGLASS_CONVERT": "<style=cIsVoid>Оскверняет все Изобилующие песчаные часы</style>.",
+  "BUB_VOIDHOURGLASS_DESC_SIMPLE": "30% <style=cStack>(+30% за шт.)</style> шанс дублировать <style=cIsDamage>урон с течением времени</style>. ",
+  "BUB_VOIDHOURGLASS_PICKUP": "Шанс удвоить урон с течением времени. ",
+
+  "BUB_VOIDJUNKTOSCRAPTIER1_NAME": "Пустотный мусор",
+  "BUB_VOIDJUNKTOSCRAPTIER1_PICKUP": "Имеет приоритет при использовании с <color=#FFFFFF>обычными</color> 3D-принтерами. <style=cIsVoid>Оскверняет все сломанные предметы</style>.",
+  "BUB_VOIDJUNKTOSCRAPTIER1_DESC": "Ничего не делает. Имеет приоритет при использовании с <color=#FFFFFF>обычными</color> 3D-принтерами. <style=cIsVoid>Оскверняет все сломанные предметы</style>.",
+
+  "BUB_VOIDSLUG_NAME": "Адреналиновый росток",
+  "BUB_VOIDSLUG_CONVERT": "<style=cIsVoid>Оскверняет всех Осторожных слизней</style>.",
+  "BUB_VOIDSLUG_DESC_SIMPLE": "Получите <style=cIsHealing>0,03 регенерации</style> <style=cStack>(суммируется линейно за шт.)</style> за недостающее <style=cIsHealth>здоровье</style>, пока вы в <style=cIsHealth>опасности</style>. ",
+  "BUB_VOIDSLUG_PICKUP": "Получите <style=cIsHealing>регенерацию</style> за отсутствующее <style=cIsHealth>здоровье</style>. Когда вы в <style=cIsHealth>опасности</style>. ",
+
+  "BUB_ZEALOTRYEMBRACE_NAME": "Объятия фанатизма",
+  "BUB_ZEALOTRYEMBRACE_CONVERT": "<style=cIsVoid>Оскверняет все Метки смерти</style>.",
+  "BUB_ZEALOTRYEMBRACE_PICKUP": "Наносите больше урона врагам, у которых почти нету отрицательных эффектов. ",
+  "BUB_ZEALOTRYEMBRACE_DESC_SIMPLE": "Наносит на <style=cIsDamage>25% больше урона</style> врагам с менее чем <style=cIsDamage>3</style> <style=cStack>(+1 за шт.)</style> отрицательными эффектами. ",
+
+  "BUB_BROKEN_CLOCK_NAME": "Сломанные часы",
+  "BUB_BROKEN_CLOCK_PICKUP": "Поверните часы назад на <style=cIsUtility>10 секунд</style> для себя.",
+  "BUB_BROKEN_CLOCK_DESC": "Поверните часы назад на <style=cIsUtility>10 секунд</style>, чтобы восстановить <style=cIsHealing>здоровье</style> и <style=cIsUtility>скорость</style>.",
+
+  "BUB_GYROSCOPICWHISK_NAME": "Гироскопический венчик СОМ'а",
+  "BUB_GYROSCOPICWHISK_DESC": "Крутите врагов, пока они не взлетят в небо и не умрут.",
+  "BUB_GYROSCOPICWHISK_PICKUP": "Крутите врагов, пока они не умрут.",
+  "BUB_GYROSCOPICWHISK_LORE": "СОМ сказал Жюльен перестать думать о плохих идеях, они сказали нет.",
+
+  "BUB_HOLOGRAPHICDONKEY_NAME": "Голографический осёл",
+  "BUB_HOLOGRAPHICDONKEY_PICKUP": "Стань пастухом, возглавь драку.",
+  "BUB_HOLOGRAPHICDONKEY_DESC": "Отвлеките врагов или прикрепите его к врагам, чтобы отвлечь их внимание от врага. Длится 15 секунд.",
+  "BUB_HOLOGRAPHICDONKEY_LORE": "В этом виноват гемос.",
+
+  "BUB_WILDLIFE_CAMERA_NAME": "Камера дикой природы",
+  "BUB_WILDLIFE_CAMERA_PICKUP": "Сфотографируйте врага и позже создайте его как союзника.",
+  "BUB_WILDLIFE_CAMERA_DESC": "Сфотографируйте врага и затем используйте его как союзника.",
+  "BUB_WILDLIFE_CAMERA_LORE": "Устройство, когда-то использовавшееся старшим провидцем для превращения лесных существ в игральные карты. \r\nПосле некоторых модификаций существа больше не привязаны к плоской карте, вместо этого они изгибаются и изгибаются в живое существо из бумаги и чернил... \r\n\r\nК счастью, они кажутся достаточно дружелюбными.",
+  "BUB_SEPIA_ELITE_NAME": "Заснятый {0}",
+
+  "BUB_VOIDLUNARSHOP_NAME": "Бутон Пустоты",
+  "BUB_VOIDLUNARSHOP_CONTEXT": "Открыть бутон Пустоты",
+  "BUB_VOIDLUNARSHOP_REROLL_NAME": "Плита",
+  "BUB_VOIDLUNARSHOP_REROLL_CONTEXT": "Обновить магазин",
+  "BUB_RETURN_TO_PORTALBLUE": "Вернуться к синему порталу",
+
+  "BUB_ABSTRACTEDLOCUS_NAME": "Абстрактное место",
+  "BUB_ABSTRACTEDLOCUS_DESC_SIMPLE": "Зона телепорта <style=cIsUtility>увеличена на 50%</style> <style=cStack>(+20% за стек)</style>. Снаружи радиус телепорта заполнен <style=cIsVoid>туманом Пустоты</style>. Пребывание в <style=cIsVoid>тумане Пустоты</style> заряжает телепорт на <style=cIsUtility>60%</style> <style=cStack>(+60% за шт.)</style> <style=cIsUtility>быстрее</style>. ",
+  "BUB_ABSTRACTEDLOCUS_CONVERT": "<style=cIsVoid>Оскверняет всё Концентрированное совмещение</style>.",
+  "BUB_ABSTRACTEDLOCUS_PICKUP": "Зона телепорта больше, за пределами зоны находится туман Пустоты, нахождение в тумане увеличивает скорость заряда телепорта. ",
+
+  "BUB_CIRCLET_NAME": "Затопленная диадема",
+  "BUB_CIRCLET_DESC_SIMPLE": "Каждые <style=cIsUtility>10</style> <style=cStack>(-50% за шт.)</style> заработанного <style=cIsUtility>золота сокращают время восстановления умений на 1 секунду</style>. <style=cIsHealth>Временно останавливает получение любого золота на 5</style> <style=cStack>(+5 за шт.)</style> <style=cIsHealth>секунд после удара.</style> ",
+  "BUB_CIRCLET_CONVERT": "<style=cIsVoid>Оскверняет все Хрупкие венцы</style>.",
+  "BUB_CIRCLET_PICKUP": "Уменьшите время <style=cIsUtility>восстановления умений</style> за счет полученного золота… <style=cIsHealth>НО остановите получение золота при попадании.</style> ",
+
+  "BUB_CLUMPEDSAND_NAME": "Слипшийся песок",
+  "BUB_CLUMPEDSAND_DESC_SIMPLE": "Все атаки будут <style=cIsUtility>наносить дополнительный 1</style> <style=cStack>(+1 за шт.)</style> <style=cIsUtility>удар</style>, нанося <style=cIsDamage>50% базового урона</style>, <style=cIsHealth>но уменьшает восстановление здоровья на -3/с</style> <style=cStack>(-3/с за шт.)</style>. ",
+  "BUB_CLUMPEDSAND_CONVERT": "<style=cIsVoid>Оскверняет всё Формованное стекло</style>.",
+  "BUB_CLUMPEDSAND_PICKUP": "<style=cIsUtility>Урон наносится ещё раз но в</style> <style=cIsDamage>более слабом состоянии…</style> <style=cIsHealth>НО вы получаете отрицательную регенерацию.</style> ",
+
+  "BUB_DECENT_NAME": "Глубинное нисхождение",
+  "BUB_DECENT_DESC_SIMPLE": "Эффекты снаряжения <style=cIsUtility>сработают дополнительно 1 раз</style> <style=cStack>(+1 за шт.)</style> <style=cIsUtility>при использовании.</style> <style=cIsHealth>Увеличивает время восстановления снаряжения на 50%</style> <style=cStack>(+15% за шт.)</style>. ",
+  "BUB_DECENT_CONVERT": "<style=cIsVoid>Оскверняет все Жесты утопленника</style>.",
+  "BUB_DECENT_PICKUP": "<style=cIsUtility>Снаряжение срабатывает чаще</style>, <style=cIsHealth>увеличивает время восстановления снаряжения.</style> ",
+
+  "BUB_HYDROPHILY_NAME": "Гидрофилия",
+  "BUB_HYDROPHILY_DESC_SIMPLE": "Игнорируя регенерацию, преобразуйте <style=cIsHealing>100%</style> <style=cStack>(+100% за шт.)</style> <style=cIsHealing>исцеления</style> во <style=cIsUtility>временные барьеры</style>. <style=cIsHealth>Исцеление невозможно, пока активен барьер.</style>",
+  "BUB_HYDROPHILY_CONVERT": "<style=cIsVoid>Оскверняет все Мертвоцветы</style>.",
+  "BUB_HYDROPHILY_PICKUP": "Преобразует <style=cIsHealing>исцеление</style> <style=cIsUtility>в барьер</style>, <style=cIsHealth>отключает всё лечение, пока барьер активен.</style> ",
+
+  "BUB_IMPERFECT_NAME": "Имперфекция",
+  "BUB_IMPERFECT_DESC_SIMPLE": "Преобразует весь текущий <style=cIsUtility>щит</style> в <style=cIsHealth>максимальное здоровье</style>. Уменьшает <style=cIsHealth>броню</style> на <style=cIsHealth>-25</style> <style=cStack>(-25 за шт.)</style>, но вы получите дополнительный <style=cIsUtility>щит на 25%</style> <style=cStack>(+25% за шт.)</style>. ",
+  "BUB_IMPERFECT_CONVERT": "<style=cIsVoid>Оскверняет всю Трансцендентность</style>.",
+  "BUB_IMPERFECT_PICKUP": "Преобразуйте весь свой щит в здоровье. <style=cIsUtility>Увеличьте максимальный щит…</style> <style=cIsHealth>НО ваша броня становится более хрупкой.</style> ",
+
+  "BUB_ORBOFFALSITY_NAME": "Сферы вероломства",
+  "BUB_ORBOFFALSITY_DESC_SIMPLE": "Кажется, ничего не делает... но... <style=cIsHealth>Семена пустоты появляются на 50%</style> <style=cStack>(+15% за шт.)</style> <style=cIsHealth>чаще</style>. ",
+  "BUB_ORBOFFALSITY_CONVERT": "<style=cIsVoid>Оскверняет все Бусины верности</style>.",
+  "BUB_ORBOFFALSITY_PICKUP": "Кажется, ничего не делает... но... ",
+
+  "BUB_SEEPINGOCEAN_NAME": "Просачивающийся океан",
+  "BUB_SEEPINGOCEAN_DESC_SIMPLE": "Предметы имеют <style=cIsUtility>4%</style> <style=cStack>(+4% за шт.)</style> шанс стать <color=#7e32cb>пустотным лунным</color> предметом. <style=cIsUtility>Не зависит от удачи</style>. ",
+  "BUB_SEEPINGOCEAN_CONVERT": "<style=cIsVoid>Оскверняет все Нулевые панегирики</style>.",
+  "BUB_SEEPINGOCEAN_PICKUP": "Предметы и снаряжение имеют <style=cIsUtility>небольшой шанс</style> превратиться в <color=#7e32cb>пустотный лунный</color> предмет. ",
+
+  "BUB_TARNISHED_NAME": "Запятнанный",
+  "BUB_TARNISHED_DESC_SIMPLE": "Во время действия все случайные эффекты выбрасываются <style=cIsUtility>+1 раз для благоприятного исхода</style>. <style=cIsHealth>Остается активным только в течение 50</style> <style=cStack>(+50 за шт.)</style> <style=cIsHealth>бросков за этап</style>. В неактивном состоянии все случайные эффекты выбрасываются <style=cIsHealth>+1</style> <style=cStack>(+1 за шт.)</style> <style=cIsHealth>раз с неблагоприятным исходом</style>. ",
+  "BUB_TARNISHED_CONVERT": "<style=cIsVoid>Оскверняет всю Чистоту</style>.",
+  "BUB_TARNISHED_PICKUP": "Получите временную удачу, <style=cIsHealth>затем станьте неудачником.</style> "
+  }
+}

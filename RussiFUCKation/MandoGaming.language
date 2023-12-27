@@ -1,0 +1,23 @@
+{
+	"RU": {
+		"COMMANDO_HEAVYTAP_NAME": "Тяжёлый выстрел",
+                "COMMANDO_HEAVYTAP_DESCRIPTION": "<style=cIsDamage>Беспрепятственный</style>. Стреляет дважды, нанося <style=cIsDamage>2x155% урона</style>.",
+                "KEYWORD_FRICTIONLESS": "<style=cKeywordName>Беспрепятственный</style><style=cSub>Не страдает от понижения урона.</style>",
+
+               "COMMANDO_PLASMATAP_NAME": "Плазменый выстрел",
+               "COMMANDO_PLASMATAP_DESCRIPTION": "<style=cIsDamage>Искрение</style>. Стреляет порывом молний, которые наносят <style=cIsDamage>100% урона</style> по конусообразной траектории.",
+               "KEYWORD_ARC": "<style=cKeywordName>Искрение</style><style=cSub>Дуга бьёт током до 4 врагов, нанося 30% урона за удар.</style>",
+
+               "COMMANDO_PRFRVWILDFIRESTORM_NAME": "Буря дикого огня ПРФР-В",
+               "COMMANDO_PRFRVWILDFIRESTORM_DESCRIPTION": "Стреляет продолжительным потоком пламени, который наносит по <style=cIsDamage>550% урона</style> в секунду, и имеет шанс <style=cIsDamage>поджечь</style> врагов.",
+
+               "ACHIEVEMENT_COMMANDOHEAVYTAP_NAME": "Коммандо: получи взрыв",
+               "ACHIEVEMENT_COMMANDOHEAVYTAP_DESCRIPTION": "Играя за Коммандо, пройдите этап, не используя основной навык.",
+
+               "ACHIEVEMENT_COMMANDOPLASMATAP_NAME": "Коммандо: дуговая эссенция",
+               "ACHIEVEMENT_COMMANDOPLASMATAP_DESCRIPTION": "Играя за Коммандо, создайте цепную молнию 70 раз за один забег.",
+
+               "ACHIEVEMENT_COMMANDOPRFRVWILDFIRESTORM_NAME": "Коммандо: воспламенение",
+               "ACHIEVEMENT_COMMANDOPRFRVWILDFIRESTORM_DESCRIPTION": "Играя за Коммандо, подожгите врагов 30 раз за один забег."
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"RU": {
+                "MOFFEINBANDITDYNAMITE_SECONDARY_NAME": "Бросок динамита",
+                "MOFFEINBANDITDYNAMITE_SECONDARY_DESC": "Бросьте бомбу, которая <style=cIsDamage>воспламеняется и</style> наносит <style=cIsDamage>390% урона</style>. Бросает бомбы, наносящие <style=cIsDamage>6x120% урона</style> Можно выстрелить в воздухе, чтобы нанести <style=cIsDamage>дополнительный урон</style>. "
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"RU": {
+    "PLAYER_DEATH_QUOTE_16_2P": "Попробуйте поиграть в режиме «Солнечно» для более легкого времяпрепровождения.",
+    "PLAYER_DEATH_QUOTE_16": "{0} предпочитает играть на Солнечно.",
+    "SUNNY_NAME": "Солнечно",
+    "SUNNY_DESCRIPTION": "Для игроков в возрасте 5 лет и младше. Вы когда-нибудь дотрагивались до клавиатуры?<style=cStack>\n\n>Регенерация здоровья игрока: <style=cIsHealing>+50%</style> \n>Снижение урона, наносимого игроку: <style=cIsHealing>+38%</style> \n>Сложность: <style=cIsHealing>Убрана</style></style>",
+    "RAINSOON_NAME": "Гроза",
+    "RAINSOON_DESCRIPTION": "Умеренный вызов. Планета становится беспокойной.<style=cStack>\n \n>Сложность: <style=cIsHealth>+25%</style></style>",
+    "CALYPSO_NAME": "Калипсо",
+    "CALYPSO_DESCRIPTION": "Приготовьтесь, ибо те, кто желает пройти этот путь, — это те, кто готов противостоять злу. <style=cStack>\n\n>Регенерация здоровья игрока: <style=cIsHealth>-40%</style> \n>Сложность: <style=cIsHealth>+125%</style>  \n>Скорость передвижения врагов: <style=cIsHealth>+30%</style> \n>Шанс критического удара у врагов: <style=cIsHealth>+10%</style></style>",
+    "TEMPEST_NAME": "Буря",
+    "TEMPEST_DESCRIPTION": "В аду нет такой ярости, как на планете. Конец близок. <style=cStack>\n\n>Регенерация здоровья игрока: <style=cIsHealth>-40%</style> \n>Сложность: <style=cIsHealth>+200%</style> \n>Уменьшение откатов навыков у врагов: <style=cIsHealth>+50%</style> \n>Скорость передвижения врагов: <style=cIsHealth>+35% (+35% за этап)</style> \n>Скорость атаки врагов: <style=cIsHealth>+25%</style> \n>Шанс критического удара у врагов: <style=cIsHealth>+10%</style> \n>Начальные предметы врагов: <style=cIsHealth>Убийственная справедливость</style></style>",
+    "SCYLLA_NAME": "Армагеддон",
+    "SCYLLA_DESCRIPTION": ""Тебе нравится проходить через ад?" Это пик трудностей, которые я создал. Я не могу придумать, что ещё можно добавить, что все равно было бы весело, но если кто-то сможет победить это, он ЗАСЛУЖИТ звание геймера. \n\n Кроме того, да. Это улучшения для игрока. Вот настолько это тяжело. <style=cIsHealth>Удачи.</style> <style=cStack>\n\n>Скорость передвижения игрока: <style=cIsHealing>+50%</style> \n>Начальные предметы игрока: <style=cIsHealing>+Сияющая жемчужина</style> \n>Регенерация здоровья игрока: <style=cIsHealth>-40%</style> \n>Сложность: <style=cIsHealth>+350% + Экспоненциально бесконечна</style> \n>Уменьшение откатов навыков у врагов: <style=cIsHealth>+50%</style> \n>Скорость передвижения врагов: <style=cIsHealth>+35% (+35% за этап)</style> \n>Скорость атаки врагов: <style=cIsHealth>+25%</style> \n>Шанс критического удара у врагов: <style=cIsHealth>+10%</style> \n>Вражеская броня: <style=cIsHealth>+5 (+5 за этап)</style> \n>Начальные предметы врагов: <style=cIsHealth>Убийственная справедливость</style> \n>Начальные предметы врагов: <style=cIsHealth>Блистающая махина</style> \n>Начальные предметы врагов: <style=cIsHealth>Осторожный слизень</style> \n>Начальные предметы врагов: <style=cIsHealth>Литой бур</style> \n>Начальные предметы врагов: <style=cIsHealth>57-листный клевер</style> \n>Начальные предметы врагов: <style=cIsHealth>Опал причудливой формы</style></style>"
+    }
+}

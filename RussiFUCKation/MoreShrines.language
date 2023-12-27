@@ -1,0 +1,51 @@
+{
+  "strings": {                                                                                                                                          "SHRINE_IMP_USE_MESSAGE": "<style=cShrine>{0} осмотрел вазу и появились крошечные бесята!</style>",                                            
+  "SHRINE_IMP_USE_MESSAGE_2P": "<style=cShrine>Вы осмотрели вазу и крошечные бесята появились!</style>",
+  "SHRINE_IMP_COMPLETED": "<style=cIsHealing>Вы убили всех бесят и нашли несколько предметов!</style>",
+  "SHRINE_IMP_COMPLETED_2P": "<style=cIsHealing>{0} убил всех бесят и нашёл несколько предметов!</style>",
+  "SHRINE_IMP_FAILED": "<style=cIsHealth>Вы не смогли вовремя убить всех бесят!</style>",
+  "SHRINE_IMP_FAILED_2P": "<style=cIsHealth>{0} не смог вовремя убить всех бесят!</style>",
+  "SHRINE_IMP_NAME": "Святилище Бесов",
+  "SHRINE_IMP_CONTEXT": "Осмотреть вазу.",
+  "OBJECTIVE_KILL_TINY_IMPS": "Убить <color={0}>крошечных бесят</color> ({1}/{2}) за {3} секунды!",
+        
+  "SHRINE_FALLEN_NAME": "Святилище Падших",
+  "SHRINE_FALLEN_CONTEXT": "Возложить на Святилище Падших",
+  "SHRINE_FALLEN_USED": "<style=cIsHealing>{0} возложил на Святилище Падших и возродил {1}!</style>",
+  "SHRINE_FALLEN_USED_2P": "<style=cIsHealing>Вы возложили на Святилище Падших и возродили {1}!</style>",
+  "COST_PERCENTMAXHEALTH_FORMAT": "{0}% максимального здоровья",
+  "COST_PERCENTMAXHEALTH_ROUND_FORMAT": "{0}% максимального здоровья этапа",
+        
+  "SHRINE_DISORDER_NAME": "Святилище Беспорядка",
+  "SHRINE_DISORDER_CONTEXT": "Возложить на Святилище Беспорядка",
+  "SHRINE_DISORDER_USE_MESSAGE_2P": "<style=cShrine>Ваш порядок нарушен.</style>",
+  "SHRINE_DISORDER_USE_MESSAGE": "<style=cShrine>Порядок {0} был нарушен.</style>",
+       
+  "SHRINE_HERESY_NAME": "Святилище Ереси",
+  "SHRINE_HERESY_CONTEXT": "Возложить на Святилище Ереси",
+  "SHRINE_HERESY_USE_MESSAGE_2P": "<style=cShrine>Вы сделали шаг к ереси.</style>",
+  "SHRINE_HERESY_USE_MESSAGE": "<style=cShrine>{0} сделал шаг к ереси.</style>",
+
+  "SHRINE_WISP_NAME": "Святилище Сгустков",
+  "SHRINE_WISP_CONTEXT": "Возложить на древо",
+  "SHRINE_WISP_ACCEPT_MESSAGE_2P": "<style=cShrine>Древо приняло ваш <color=#{1}>{2}</color> и призрачные Сгустки появились.</style>",
+  "SHRINE_WISP_ACCEPT_MESSAGE": "<style=cShrine>Древо приняло <color=#{1}>{2}</color> {0}, и призрачные Сгустки появились.</style>",
+  "SHRINE_WISP_DENY_MESSAGE_2P": "<style=cIsDamage>Древо отвергнуло ваш <color=#{1}>{2}</color> и злобные Сгустки появились..</style>",
+  "SHRINE_WISP_DENY_MESSAGE": "<style=cIsDamage>Древо отвергнуло <color=#{1}>{2}</color> {0}, и злобные Сгустки появились..</style>",
+        
+  "SHRINE_SHIELDING_NAME": "Святилище Укрепления",
+  "SHRINE_SHIELDING_CONTEXT": "Прикоснуться к щиту.",
+  "SHRINE_SHIELDING_USE_MESSAGE_2P": "<style=cShrine>Вы чувствуете себя защищенным.</style>",
+  "SHRINE_SHIELDING_USE_MESSAGE": "<style=cShrine>{0} чувствует себя защищенным.</style>",
+
+  "SHRINE_THUNDER_NAME": "Ржавый блок предохранителей",
+  "SHRINE_THUNDER_CONTEXT": "Взаимодействовать с блоком предохранителей.",
+  "SHRINE_THUNDER_USE_MESSAGE_2P": "<style=cShrine>Вы слышите грохот грома.</style>",
+  "SHRINE_THUNDER_USE_MESSAGE": "<style=cShrine>Вы слышите грохот грома.</style>",
+
+  "SHRINE_ENIGMA_NAME": "Тотемный столб",
+  "SHRINE_ENIGMA_CONTEXT": "Прикоснуться к тотему.",
+  "SHRINE_ENIGMA_USE_MESSAGE_2P": "<style=cShrine>Вы получили эффект случайного снаряжения. [{1}]</style>",
+  "SHRINE_ENIGMA_USE_MESSAGE": "<style=cShrine>{0} получил эффект случайного снаряжения. [{1}]</style>"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "RU": {
+    "TO30_VARIANTPACK_NAME": "Тридцать оригинальных",
+    "TO30_VARIANTPACK_DESC":  "Оригинальные тридцать вариантов, разработанные Rob'ом. Испытайте первых существ, которые превратили ваши забеги в сущий ад.",
+    "TO30_ARMORED_PREFIX": "Бронированый",
+    "TO30_BATTLE_PREFIX": "Боевой",
+    "TO30_SPEEDY_PREFIX": "Скоростной",
+    "TO30_TOXIC_PREFIX": "Токсичный",
+    "TO30_TOXICBEETLE_ARRIVAL": "От земли исходит зловоние...",
+
+    "TO30_BRUTE_SUFFIX": "Брутальный",
+    "TO30_SHARPSHOOTER_SUFFIX": "Меткий",
+
+    "TO30_ALBINO_PREFIX": "Альбинос",
+
+    "TO30_FUCKING_PREFIX": "Ебучий",
+
+    "TO30_MOLTEN_PREFIX": "Литой",
+
+    "TO30_FULLAUTO_PREFIX": "Полностью автоматический",
+    "TO30_FULLAUTO_ARRIVAL": "Пронзительный лазер нарушает тишину...",
+    "TO30_OVERCHARGED_PREFIX": "Перезаряженый",
+    "TO30_RUSH_PREFIX": "Прорывающийся",
+    "TO30_RUSHGOLEM_ARRIVAL": "Золотые самородки объединяются...",
+    "TO30_TITANISH_PREFIX": "Титанический",
+
+    "TO30_GREATEST_PREFIX": "Большущий",
+    "TO30_GREATESTWISP_ARRIVAL": "Воздух горит вокруг тебя...",
+
+    "TO30_CLOTTED_PREFIX": "Сгущающий кровь",
+
+    "TO30_CURSED_PREFIX": "Проклятая",
+    "TO30_CURSED_ARRIVAL": "Надвигающееся проклятое присутствие идет к вам...",
+    "TO30_MOAJ_PREFIX": "Матерь всех",
+    "TO30_MOAJ_ARRIVAL": "Гудящий звук постепенно становится сильнее...",
+    "TO30_NUCLEAR_PREFIX": "Ядерная",
+    "TO30_SPECTRAL_PREFIX": "Призрачная",
+    "TO30_SPECTRALJELLYFISH_ARRIVAL": "Эктоплазма сливается рядом с вами...",
+
+    "TO30_BADASS_PREFIX": "Крутой",
+    "TO30_FLAMETHROWER_PREFIX": "Огнемётный",
+    "TO30_FLAMETHROWER_ARRIVAL": "Огненные шары вырываются из скважин...",
+
+    "TO30_ALMOSTGREAT_PREFIX": "Почти большой",
+    "TO30_INFERNAL_PREFIX": "Инфернальный",
+    "TO30_INFERNALWISP_ARRIVAL": "Инфернальная маска появляется...",
+
+    "TO30_DREAM_PREFIX": "Везучий",
+
+    "TO30_ENORMOUS_SUFFIX": "Громадный",
+    "TO30_PYGMY_PREFIX": "Пигмей",
+
+    "TO30_DEAGLE_SUFFIX": "С грёбанной пушкой!",
+    "TO30_ALLOYDEAGLE_ARRIVAL": "В небе слышны выстрелы...",
+    "TO30_ARTILLERY_PREFIX": "Артиллерийский",
+
+    "TO30_UNSTABLE_PREFIX": "Нестабильный"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "RU": {
+    "NW_VARIANTPACK_NAME": "Гнев Nebby",
+    "NW_VARIANTPACK_DESC": "Первоначально варианты были разработаны для MonsterVariants+. Испытайте новых друзей, которые сделают ваши забеги более хаотичными и опасными.",
+
+    "NW_ENRAGED_PREFIX": "Разъяренный",
+    "NW_ANCIENTSTONEWISP_ARRIVAL": "Древние энергии земли накапливаются...",
+
+    "NW_STONE_PREFIX": "Каменный",
+    "NW_ARCHAICSTONEWISP_ARRIVAL": "Архаичные энергии земли накапливаются...",
+    "NW_AEONIC_PREFIX": "Эонический",
+    "NW_SOMEWHATARCHAIC_PREFIX": "Отчасти архаичный",
+
+    "NW_ANCIENT_PREFIX": "Древний",
+    "NW_ENORMOUS_PREFIX": "Громадный",
+    "NW_PYGMY_PREFIX": "Пигмей",
+
+    "NW_MALFUNCTIONING_PREFIX": "Неисправный",
+    "NW_SWARMING_PREFIX": "Роевой",
+
+    "NW_EMPRESS_SUFFIX": "Императрица",
+    "NW_MATRIARCH_PREFIX": "Матриархальная",
+
+    "NW_ALPHA_PREFIX": "Альфа",
+
+    "NW_ALUMINUM_PREFIX": "Покрытое алюминием",
+    "NW_STEEL_PREFIX": "Покрытое сталью",
+
+    "NW_DEVOURER_PREFIX": "Пожиратель",
+    "NW_STARVING_PREFIX": "Голодающий",
+
+    "NW_ASSASSIN_PREFIX": "Убийца",
+    "NW_SOLDIER_SUFFIX": "Солдат",
+
+    "NW_VAMPIRIC_PREFIX": "Вампирический",
+
+    "NW_KJARO_ARRIVAL": "Призрак Кьяро появляется с жаждой мести!",
+    "NW_KJARO_OVERRIDE": "Призрак Кьяро",
+    "NW_RUNALD_ARRIVAL": "Призрак Рунальда появляется с жаждой мести!",
+    "NW_RUNALD_OVERRIDE": "Призрак Рунальда",
+    "NW_INCINERATING_ARRIVAL": "Земля нагревается от прибытия лемуриана-старейшины...",
+    "NW_INCINERATING_PREFIX": "Испепеляющий",
+
+    "NW_GREAT_PREFIX": "Большущий",
+    "NW_SUNWORSHIPPING_PREFIX": "Гелиолаторский",
+
+    "NW_AMALGAMATED_PREFIX": "Объединенный",
+    "NW_GREATERSTONEWISP_ARRIVAL": "Великие энергии земли накапливаются...",
+    "NW_SOMEWHATGREAT_PREFIX": "Отчасти большой",
+
+    "NW_MORTAR_PREFIX": "Миномётный",
+
+    "NW_BRUISER_PREFIX": "Борец",
+    "NW_ICHOR_PREFIX": "Ихорный",
+
+    "NW_BERSERKER_PREFIX": "Берсерк",
+
+    "NW_ALMOSTARCHAIC_PREFIX": "Почти архаичный",
+    "NW_LEASTEST_PREFIX": "Малейший",
+
+    "NW_AD_PREFIX": "АД",
+    "NW_HEALER_PREFIX": "Лечащий",
+    "NW_MAMMASHROOM_ARRIVAL": "Появляется матриархальный гриб.",
+    "NW_MAMMA_PREFIX": "Мама",
+
+    "NW_ADOLESCERE_PREFIX": "Подростающий",
+    "NW_CHILDISH_PREFIX": "Детский",
+
+    "NW_SWARMER_PREFIX": "Роевик",
+    "NW_MK2_SUFFIX": "Вер.2",
+    "NW_GAUSSIAN_PREFIX": "Гауссовый",
+
+    "NW_COLOSSALGOLEM_ARRIVAL": "Массивный каменный голем материализуется...",
+    "NW_COLOSSAL_PREFIX": "Колоссальный",
+
+    "NW_MOTHERSHIP_PREFIX": "Материнский"
+  }
+}

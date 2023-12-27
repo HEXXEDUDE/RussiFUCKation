@@ -1,0 +1,58 @@
+{
+	"RU": {
+                \\"HASTEREAPR_ASSASSIN_BODY_": "",
+                "HASTEREAPR_ASSASSIN_BODY_NAME": "Ассасин",
+                "HASTEREAPR_ASSASSIN_BODY_DESCRIPTION": "Ассасин сражается на средней дистанции и использует яд, чтобы наносить врагам урон в течение долгого времени.<color=#CCD3E0>\n\n< ! > Кинжалы отлично подходят для борьбы с одиночными целями.\n\n< ! > Яды отлично подходят для борьбы с толпами врагов.\n\n< ! > Телепортация может быть сложной для прицеливания, хотя она происходит по дуге, поэтому направляйте ее немного выше того места, где вы хотите приземлиться.\n\n< ! > Боевой Клич можно использовать, когда вы активируете телепорт.",
+                "HASTEREAPR_ASSASSIN_BODY_SUBTITLE": "Бесшумный ядовитый профессионал",
+                "HASTEREAPR_ASSASSIN_BODY_LORE": "Когда-то Ассасины считались вундеркиндами в алхимии, и им было суждено оставить неизгладимый след в истории. Они проявляли небывалую склонность к варке зелий, способных сделать все, о чем только можно попросить. Под наставничеством уважаемых алхимиков они оттачивали свое ремесло и заслужили репутацию самых способных алхимиков. Однако со временем их обуяла жадность, которую алхимическое общество очень не одобряло. Это привело к тому, что они покинули общество, которое их наставляло.\n\nБольшая жадность и ненависть к алхимическому обществу, в котором они выросли, привели Ассасинов на темный путь, который они даже не могли себе представить. Поглощенные жадностью и желанием прославиться, они направили свой опыт на темные цели. Они месяцами варили свое самое смертоносное зелье - нейротоксин, настолько смертоносный, что лишал жизни любого, кто вдыхал его пары. Зная, что им не выжить, они создали противоядие и пропитали им свой плащ.\n\nОни приобрели известность как неумолимые и неуловимые охотники за головами. Их услугами пользовались преступники и военачальники, а их яд стал их фирменным стилем убийства, фактически служащим визитной карточкой.\n\nОни использовали свои навыки зельеварения, чтобы сделать другие зелья, те, которые могли перемещать их молекулярную структуру, и другие, которые могли заставить их тело исчезнуть в мгновение ока. \n\nИспытав свой предыдущий яд, они придумали нечто более вирулентное.\n\nЭтот новый яд был в состоянии доставить все свои токсины почти мгновенно, с тем побочным эффектом, что он задерживался в воздухе.\n\nЭто позволило им убить целые комнаты людей с помощью одного зелья.\n\nИзвестность Ассасинов привлекла внимание таинственной фигуры, которая пришла к ним, предлагая вознаграждение, от которого они не могли отказаться. Высадившись на Петрикор V, они почувствовали мощное присутствие, которое захотели убить.",
+                "HASTEREAPR_ASSASSIN_BODY_OUTRO_FLAVOR": "...и вот они ушли, чтобы потребовать свою самую большую награду.",
+                "HASTEREAPR_ASSASSIN_BODY_OUTRO_FAILURE": "...и вот они исчезли, не оставив ни малейшего следа дыма.",
+
+                "HASTEREAPR_ASSASSIN_BODY_DEFAULT_SKIN_NAME": "По умолчанию",
+                "HASTEREAPR_ASSASSIN_BODY_MASTERY_SKIN_NAME": "Возвышенный",
+                "HASTEREAPR_ASSASSIN_BODY_GRAND_MASTERY_SKIN_NAME": "Божественный",
+                
+                "HASTEREAPR_ASSASSIN_BODY_PASSIVE_NAME": "Ярость безумного бога",
+                "HASTEREAPR_ASSASSIN_BODY_PASSIVE_DESCRIPTION": "Получение урона ниже <style=cIsHealth>60% максимального здоровья</style> увеличит скорость вашей атаки и урон на <style=cIsDamage>7.5% за стак</style>, на <style=cIsUtility>3 секунды.</style>",
+                
+                "HASTEREAPR_ASSASSIN_BODY_PRIMARY_DAGGER_NAME": "Кинжал",
+                "HASTEREAPR_ASSASSIN_BODY_PRIMARY_DAGGER_DESCRIPTION": "<style=cIsUtility>Подвижность.</style> Бросьте 2 кинжала, нанося <style=cIsDamage>145% урона</style>.",
+                "HASTEREAPR_ASSASSIN_BODY_PRIMARY_DAGGER_DESCRIPTION_SCEPTER": "<style=cIsUtility>Подвижность.</style> Бросьте 3 кинжала, нанося <style=cIsDamage>{0}% урона</style> каждый. <style=cIsUtility>Пока вы находитесь под действием Боевого клича, бросьте 5 кинжалов.</style>",
+                
+                
+                "HASTEREAPR_ASSASSIN_BODY_SECONDARY_POISON_NAME": "Яд",
+                "HASTEREAPR_ASSASSIN_BODY_SECONDARY_POISON_DESCRIPTION": "<style=cIsUtility>Подвижность.</style> Бросьте ядовитое зелье, наносящее <style=cIsDamage>250% урона</style> и дополнительно <style=cIsDamage>500% урона со временем.</style>",
+                "HASTEREAPR_ASSASSIN_BODY_SECONDARY_POISON_DESCRIPTION_SCEPTER": "<style=cIsUtility>Подвижность.</style> Бросьте сгруппированное ядовитое зелье, наносящее <style=cIsDamage>{0}% урона</style> и дополнительно <style=cIsDamage>{1}% урона со временем, каждое.</style> \n\n<style=cKeywordName>Пока вы находитесь под действием Боевого Клича, бросьте рекурсивно группированное зелье, с более слабыми детьми.</style>",
+                
+                "HASTEREAPR_ASSASSIN_BODY_SECONDARY_POISON_NAME_ALT": "Вирулентный яд",
+                "HASTEREAPR_ASSASSIN_BODY_SECONDARY_POISON_DESCRIPTION_ALT": "<style=cIsUtility>Подвижность.</style> Бросьте длительное зелье, наносящее <style=cIsDamage>750% урона.</style> <style=cIsUtility>Токсины действуют 5 секунд.</style> <style=cDeath>Не накладывает яд.</style>",
+                "HASTEREAPR_ASSASSIN_BODY_SCEPTER_SECONDARY_POISON_DESCRIPTION_ALT": "<style=cIsUtility>Подвижность.</style> Бросьте 2 длительных зелья в свободный веер, чтобы нанести <style=cIsDamage>{0}% урона.</style> <style=cIsUtility>Токсины действуют 5 секунд.</style> <style=cDeath>Не накладывает яд.</style>.",
+
+                "HASTEREAPR_ASSASSIN_BODY_UTILITY_CLOAK_NAME": "Телепорт",
+                "HASTEREAPR_ASSASSIN_BODY_UTILITY_CLOAK_DESCRIPTION": "Бросьте зелье в сторону курсора, <style=cIsUtility>телепортируя вас туда, где оно приземлится,</style> а затем бросьте зелье на землю, <style=cIsUtility>взрываясь в облаке дыма, получая бонус Скорость Маскировки.</style>",
+                
+                "HASTEREAPR_ASSASSIN_BODY_UTILITY_ROLL_NAME": "Маскировочный перекат",
+                "HASTEREAPR_ASSASSIN_BODY_UTILITY_ROLL_DESCRIPTION": "Перекатитесь вперед, становясь невидимым и получая небольшую прибавку к скорости передвижения.",
+
+                "HASTEREAPR_ASSASSIN_BODY_SPECIAL_POISON_SPAM_NAME": "Боевой клич",
+                "HASTEREAPR_ASSASSIN_BODY_SPECIAL_POISON_SPAM_DESCRIPTION": "<style=cIsUtility>Получите бонус на себя и все свои способности на 5 секунд.</style>",
+                "HASTEREAPR_ASSASSIN_BODY_SPECIAL_POISON_SPAM_DESCRIPTION_SCEPTER": "<style=cIsUtility>Получите бонус к себе, всем своим способностям и характеристикам на 5% в течение 5 секунд.</style>",
+
+                "HASTEREAPR_ASSASSIN_BODY_SPECIAL_BACKSTAB_NAME": "Спинальная боль",
+                "HASTEREAPR_ASSASSIN_BODY_SPECIAL_BACKSTAB_DESCRIPTION": "Нанесите врагам <style=cIsDamage>750% урона.</style><style=cIsUtility> Нанося удар сзади по врагу меньшего уровня,</style> <style=cIsHealth> вы мгновенно убиваете свою цель.</style> Если вы ударите босса сзади, у вас будет <style=cIsUtility>10%</style> к мгновенному убийству цели.</style> Если это не удается, нанесите <style=cIsDamage>цели 20% здоровья.</style>",
+
+                "HASTEREAPR_ASSASSIN_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Ассасин: мастерство",
+                "HASTEREAPR_ASSASSIN_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Ассасина, пройдите игру или уничтожтесь на уровне сложности «Сезон дождей»",
+                "HASTEREAPR_ASSASSIN_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Ассасин: мастерство",
+                "HASTEREAPR_ASSASSIN_BODY_GRAND_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Ассасин: высшее мастерство",
+                "HASTEREAPR_ASSASSIN_BODY_GRAND_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Ассасина, пройдите игруили уничтожтесь на уровне сложности «Тайфун»",
+                "HASTEREAPR_ASSASSIN_BODY_GRAND_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Ассасин: высшее мастерство",
+
+                "KEYWORD_DAGGER_WC": "<style=cKeywordName>Вдохновленный</style>\n<style=cIsUtility>Находясь под воздействием Боевого клича, </style> бросьте 4 кинжала.",
+                "KEYWORD_POISON_WC": "<style=cKeywordName>Вдохновленный</style>\n<style=cIsUtility>Находясь под воздействием Боевого клича, </style> бросьте зелье в группу с более слабыми детьми.",
+                "KEYWORD_VENOM_WC": "<style=cKeywordName>Вдохновленный</style>\n<style=cIsUtility>Находясь под воздействием Боевого клича, </style> бросьте 2 зелья в свободный веер",
+                "KEYWORD_TELEPORT_WC": "<style=cKeywordName>Вдохновленный</style>\n<style=cIsUtility>Находясь под воздействием Боевого клича, </style> быстро выбрасывает зелье телепортации и взрывается ядовитым облаком при телепортации.",
+                "KEYWORD_ROLL_WC": "<style=cKeywordName>Вдохновленный</style>\n<style=cIsUtility>Находясь под воздействием Боевого клича, </style> перекат применяет эффект боевого стяга."
+            
+	}
+}

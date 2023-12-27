@@ -1,0 +1,36 @@
+{
+	"RU": {
+        "ROB_RAVAGER_BODY_NAME": "Опустошитель",
+        "ROB_RAVAGER_BODY_DESCRIPTION": "Опустошитель — проворный громила ближнего боя, который исцеляется от убитых врагов, чтобы оставаться в гуще сражения.<color=#CCD3E0>\n\n< ! > Заряжать прыжки от стен — лучший способ справиться с летающими врагами.\n\n< ! > Рассечение удобно для отмены атак с высоким уроном, а также для поддержания наносимого урона.\n\n< ! > Свёртывание крови может быть полезно в крайнем случае, если вы не уверены, что сможете заполнить Колодец крови, но его также можно использовать пассивно, чтобы оставаться в полном объеме.\n\n< ! > Жестокость лечит тонну по желанию, поэтому обязательно возьмите и поглотите что-нибудь, если у вы при низком здоровье.",
+        "ROB_RAVAGER_BODY_SUBTITLE": "Безформенный зверь",
+        "ROB_RAVAGER_BODY_LORE": "Опустошитель не родился с особой силой...\n\n...вместо этого он родился с Проклятой катаной кровопролития, но однажды он отправился в Измерение Какашек и встретился со злой силой.....\n\nНаконец сбежав из Измерения Какашек и сам владея этой ужасающей злой силой, он прибыл в Петрикор V, чтобы уничтожить вселенную\n",
+        "ROB_RAVAGER_BODY_OUTRO_FLAVOR": "..и он ушёл, оставив после себя непостижимое количество кровопролития.",
+        "ROB_RAVAGER_BODY_OUTRO_FAILURE": "..и он исчез, его нелепое насилие подошло к концу..",
+
+        "ROB_RAVAGER_BODY_DEFAULT_SKIN_NAME": "По умолчанию",
+        "ROB_RAVAGER_BODY_MINECRAFT_SKIN_NAME": "Майнкрафт",
+
+        "ROB_RAVAGER_BODY_PASSIVE_NAME": "Физическое мастерство",
+        "ROB_RAVAGER_BODY_PASSIVE_DESCRIPTION": "Опустошитель может <style=cIsUtility>отпрыгивать от стен</style> и <style=cIsHealth>врагов</style>. Прыжок от стены можно зарядить ради мощного скачка.",
+        "ROB_RAVAGER_BODY_CONFIRM_NAME": "Подтвердить",
+        "ROB_RAVAGER_BODY_CONFIRM_DESCRIPTION": "Использовать текущий навык.",
+        "ROB_RAVAGER_BODY_CANCEL_NAME": "Отменить",
+        "ROB_RAVAGER_BODY_CANCEL_DESCRIPTION": "Отменить текущий навык.",
+        "ROB_RAVAGER_BODY_PRIMARY_SLASH_NAME": "Кромсание",
+        "ROB_RAVAGER_BODY_PRIMARY_SLASH_DESCRIPTION": "Взмахните чтобы нанести <style=cIsDamage>390% урона</style>. Заполняет <style=cIsHealth>Колодец крови</style> при попадании, истощаясь когда он заполнен чтобы исцелить вас на <style=cIsHealing>75% от максимального здоровья</style> и временно <style=cIsDamage>улучшить ваши навыки</style>.",
+        "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_NAME": "Рассечение",
+        "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_DESCRIPTION": "Выполните широкий <style=cIsUtility>оглушающий</style> разрез, нанеся <style=cIsDamage>750% урона</style>."
+        "ROB_RAVAGER_BODY_UTILITY_HEAL_NAME": "Свёртывание крови",
+        "ROB_RAVAGER_BODY_UTILITY_HEAL_DESCRIPTION": "Мгновенно осушите <style=cIsHealth>Колодец крови</style>, <style=cIsHealing>исцелитесь</style> выпитой кровью.",
+        "ROB_RAVAGER_BODY_UTILITY_BEAM_NAME": "Зловещий заряд",
+        "ROB_RAVAGER_BODY_UTILITY_BEAM_DESCRIPTION": "(Ждите <3)",
+        "ROB_RAVAGER_BODY_SPECIAL_GRAB_NAME": "Жестокость",
+        "ROB_RAVAGER_BODY_SPECIAL_GRAB_DESCRIPTION": "Сделайте выпад и <style=cIsUtility>схватите</style> ближайшего врага, а затем нанесите ему <style=cIsDamage>1000% урона</style>. Если это убьёт, <style=cIsHealth>поглотите</style> его, чтобы восстановить <style=cIsHealing>30% максимального здоровья</style>.",
+        "ROB_RAVAGER_BODY_SPECIAL_GRAB_SCEPTER_NAME": "Беспощадное нападение",
+
+        "KEYWORD_REDGUY_M1": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Махает быстрее.",
+        "KEYWORD_REDGUY_M2": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Наносит больше урона <style=cIsUtility>врагам с низким уровнем здоровья</style>.",
+        "KEYWORD_REDGUY_HEAL": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Предоставляет кратковременную <style=cIsUtility>неуязвимость</style> и дополнительно лечит.",
+        "KEYWORD_REDGUY_GRAB": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Тащит врага по земле, нанося постепенный урон."
+	}
+}

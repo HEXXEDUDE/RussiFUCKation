@@ -1,0 +1,100 @@
+{
+	"RU": {
+		"SKILL_Pathosis_NAME": "Патологическое состояние",
+		"SKILL_Pathosis_DESC": "Вместо этого ядовитые атаки накладывают <style=cIsDamage>патологическое состояние</style>. Враги, пораженные патологическим состоянием, <style=cDeath>делят полученный урон</style> с другими врагами, находящимися поблизости.",
+
+		"SKILL_Jetpack_NAME": "Перегруженный реактивный ранец",
+		"SKILL_Jetpack_DESC": "Удерживайте <style=cIsUtility>прыжок</style> чтобы <style=cIsUtility>взлететь в воздух</style>. <style=cDeath>При полете расходуется топливо</style>. Топливо пассивно регенерируется, когда вы не летаете.",
+
+		"SKILL_Saw_NAME": "Пламеранг",
+		"SKILL_Saw_DESC": "<style=cIsDamage>Поджог.</style> Взмахните <style=cIsDamage>пылающей пилой</style>, чтобы нанести <style=cIsDamage>400% урона в секунду</style>.",
+
+		"SKILL_Shards_NAME": "Трещина",
+		"SKILL_Shards_DESC": "Зарядите <style=cIsUtility>лунный заряд</style>, нанеся <style=cIsDamage>300%-1100% урона</style>.",
+
+		"SKILL_Tank_NAME": "Основной боевой танк M1A2 SEPV3",
+		"SKILL_Tank_DESC": "Установите управляемый основной боевой танк M1A2 SEPV3.",
+
+		"SKILL_Sadism_NAME": "Садизм",
+		"SKILL_Sadism_DESC": "Ваши атаки <style=cIsDamage>наносят дополнительный удар</style> за каждый <style=cDeath>отрицательный эффект</style> на цели, нанося <style=cIsDamage>50% ОБЩЕГО урона</style>.",
+
+		"SKILL_WarpStrike_NAME": "Симулирование",
+		"SKILL_WarpStrike_DESC": "Отмените следующий урон и телепортируйтесь позади атакующего. <style=cIsUtility>Ваша следующая атака нанесёт четырёхкратный урон</style>.",
+
+		"SKILL_Backup_NAME": "Аварийный пульт",
+		"SKILL_Backup_DESC": "Вызовите <style=cIsUtility>подкрепление</style> с UES Safe Travels. Длится 30 секунд.",
+
+		"SKILL_DesignBeacon_NAME": "Маяк: замысел",
+		"SKILL_DesignBeacon_DESC": "Отбрасывает назад и <style=cDeath>калечит</style> ВСЕХ находящихся рядом персонажей.",
+
+		"SKILL_OffensiveMicrobots_NAME": "Наступательные микроботы",
+		"SKILL_OffensiveMicrobots_DESC": "Получите <style=cIsUtility>боевых микроботов</style>, которые стреляют очередями замедляющих лазеров, нанося <style=cIsDamage>360% урона</style> рядом с вами.",
+
+		"SKILL_Spark_NAME": "Искровая пушка",
+		"SKILL_Spark_DESC": "Направьте <style=cIsUtility>электрический луч</style>, нанося <style=cIsDamage>340% урона в секунду</style>. Наносит <style=cIsUtility>критические удары</style> через 3 секунды.",
+
+		"SKILL_VoidBeacon_NAME": "Маяк: пустота",
+		"SKILL_VoidBeacon_DESC": "<style=cIsVoid>Пус??тотный тум??ан</style> <style=cIsDamage>медленно повреждает</style> целей в радиусе действия маяка.",
+
+		"SKILL_IceGrenade_NAME": "Морозная граната",
+		"SKILL_IceGrenade_DESC": "<style=cIsUtility>Заморозка</style>. Бросьте <style=cIsDamage>ледяную гранату</style>, которая превратится в <style=cIsUtility>замораживающий взрыв</style>.",
+
+		"SKILL_LockOn_NAME": "Заградительный огонь",
+		"SKILL_LockOn_DESC": "<style=cIsDamage>Оглушение.</style> Выпустите шквал <style=cIsUtility>нацеливающихся ракет</style>, нанеся <style=cIsDamage>400% урона</style>.",
+
+		"SKILL_SFG_NAME": "МБП-900",
+		"SKILL_SFG_DESC": "<style=cIsDamage>Оглушение</style>. Выпустите медленный <style=cIsDamage>энергетический заряд</style>, нанеся <style=cIsDamage>700% урона</style> в виде <style=cIsUtility>взрыва</style>. Имеет сильную отдачу.",
+
+		"SKILL_Constructor_NAME": "Пилон конструктор",
+		"SKILL_Constructor_DESC": "Разместите <style=cIsUtility>пилон</style>, который <style=cIsDamage>конструирует клоны</style> своих целей. Можно разместить только 1.",
+                "CS_CONSTRUCTOR_NAME": "Пилон конструктор",
+
+		"SKILL_Flamethrower_NAME": "Термальный взрыв",
+		"SKILL_Flamethrower_DESC": "<style=cIsDamage>Поджог</style>. Выстрелите из <style=cIsUtility>двойных огнеметов</style>, нанеся <style=cIsDamage>600% урона</style>.",
+
+		"SKILL_MedicTurret_NAME": "Турель поддержки PM-30",
+		"SKILL_MedicTurret_DESC": "Разместите <style=cIsUtility>мобильную</style> турель, которая <style=cIsUtility>наследует все ваши предметы</style>. <style=cIsHealing>Лечит</style> своего владельца и предоставляет <style=cIsUtility>неуязвимость</style> и <style=cIsDamage>гарантированные критические удары</style> на 8 секунд после достаточного исцеления. Можно разместить только 1. ",
+
+		"SKILL_BFT_NAME": "ББТ-9000",
+		"SKILL_BFT_DESC": "Разместите турель, которая <style=cIsUtility>наследует все ваши предметы</style>. Выпускает <style=cDeath>пиздец гигантский лазер</style>, наносящий <style=cIsDamage>13 567.5%</style> урона с длительным временем восстановления. Можно разместить только 1. ",
+                "CS_BFT_NAME": "ББТ-9000",
+
+		"SKILL_Sniper_NAME": "Снайперская турель TR-80",
+		"SKILL_Sniper_DESC": "Разместите турель, которая <style=cIsUtility>наследует все ваши предметы</style>. Выпускает пронзающий заряд дальнего действия, наносящий <style=cIsDamage>900% урона</style> за выстрел, который <style=cDeath>замедляет</style>. Можно разместить только 1. ",
+
+		"SKILL_Thruster_NAME": "Усиление перегрузки",
+		"SKILL_Thruster_DESC": "<style=cIsDamage>Оглушение</style>. <style=cIsDamage>Устойчивость</style>. Поднимитесь в воздух и после задержки бросьтесь вперед, нанося <style=cIsDamage>100%-2500%</style> урона при ударе, масштабируемом с <style=cIsUtility>скоростью падения</style>.",
+                "KEYWORD_RESILIENT": "<style=cKeywordName>Устойчивость</style>Вы <style=cIsUtility>невосприимчивы к урону от падения</style> во время действия навыков с <style=cIsDamage>устойчивостью</style>.",
+
+		"SKILL_Destroyer_NAME": "Разрушитель",
+		"SKILL_Destroyer_DESC": "<style=cDeath>Перегружен</style>. Зарядите пробивающее лезвие, нанеся <style=cIsDamage>900%-3900%</style>. После полной зарядки выпустите <style=cIsDamage>оглушающую</style> ударную волну.",
+
+		"SKILL_AirBonus_NAME": "Импульсные конденсаторы",
+		"SKILL_AirBonus_DESC": "Убийства в воздухе дают суммируемое <style=cIsDamage>10% увеличение урона</style>. Все эффекты сбрасываются при касании земли.",
+
+		"SKILL_MERC_PHANTOMSTRIKE_NAME": "Фантомный удар",
+		"SKILL_MERC_PHANTOMSTRIKE_DESC": "Высвободите 3 фантомных наемников, которые нанесут 200% урона.",
+
+		"SKILL_TETHER_NAME": "Флуоресценция",
+		"SKILL_TETHER_DESC": "<style=cDeath>Перегружен</style>. Перетаскивайте цели к себе, неоднократно нанося <style=cIsDamage>15% урона</style> и <style=cIsUtility>замедляя</style> их.",
+                "KEYWORD_OVERDRIVE": "<style=cKeywordName>Перегружен</style>Использование  <style=cDeath>перегруженных</style> навыков замедляет вас на <style=cDeath>50%</style>",
+
+		"SKILL_AutoNailblast_NAME": "Авто-гвоздевзрыв",
+		"SKILL_AutoNailblast_DESC": "<style=cDeath>Перегружен</style>. Выпустите поток <style=cIsUtility>выстрелов из дробовика</style>, нанеся <style=cIsDamage>6x90%</style> урона.",
+
+		"SKILL_ElfMelter_NAME": "Тепловая промывка",
+		"SKILL_ElfMelter_DESC": "<style=cIsDamage>Поджог.</style> Извергает 3 <style=cIsDamage>шара из расплавленного шлака</style>, которые <style=cIsUtility>замедляют</style> и наносят <style=cIsDamage>180% урона</style>. <style=cIsUtility>Поджигает местность</style>.",
+
+		"SKILL_Coin_NAME": "Перенаправитель HR-30",
+		"SKILL_Coin_DESC": "Бросьте <style=cIsUtility>устройство</style>, которое <style=cIsDamage>отражает выстрелы в ближайших врагов</style> при попадании, <style=cIsUtility>усиливая их урон</style>.",
+
+		"SKILL_ConstructBolt_NAME": "Клон конструктор",
+		"SKILL_ConstructBolt_DESC": "Пиу",
+
+		"SKILL_BFTBolt_NAME": "Пиу",
+		"SKILL_BFTBolt_DESC": "Пиу",
+
+		"SKILL_SniperBolt_NAME": "Пиу",
+		"SKILL_SniperBolt_DESC": "Пиу"
+	}
+}

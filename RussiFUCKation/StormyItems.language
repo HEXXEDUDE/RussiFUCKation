@@ -1,0 +1,27 @@
+{
+	"RU": {
+       "ITEM_CHARGED_URCHIN_NAME": "Заряженный ёж",
+       "ITEM_CHARGED_URCHIN_PICKUP": "Пока у вас есть щит, поражайте врагов шоком при получении урона.",
+       "ITEM_CHARGED_URCHIN_DESCRIPTION": "Получите <style=cIsHealth>щит</style>, равный <style=cIsHealth>10%</style> от вашего максимального здоровья. Пока у вас есть щит, при получении урона поражает <style=cIsDamage>шоком</style> врагов на <style=cIsDamage>80%</style> <style=cStack>(+80% за шт.)</style> урона.",
+       "ITEM_CHARGED_URCHIN_LORE": "\"Они больше не могут причинить тебе вред. Они все умерли\".",
+
+       "ITEM_CRACKED_HALO_NAME": "Треснувший нимб",
+       "ITEM_CRACKED_HALO_PICKUP": "Увеличивает скорость передвижения в воздухе.",
+       "ITEM_CRACKED_HALO_DESCRIPTION": "Нахождение в воздухе увеличивает вашу скорость передвижения на <style=cIsUtility>25%</style> <style=cStack>(+25% за шт.)</style>.",
+       "ITEM_CRACKED_HALO_LORE": "Несчастье падших ангелов — ваша выгода.",
+
+       "ITEM_ILLEGAL_DRONE_COOLANT_NAME": "Незаконная охлаждающая жидкость для дронов",
+       "ITEM_ILLEGAL_DRONE_COOLANT_PICKUP": "Ваши дроны разогнаны, чтобы увеличить скорость атаки и получить шанс поджога врагов.",
+       "ITEM_ILLEGAL_DRONE_COOLANT_DESCRIPTION": "Ваши дроны разгоняются, чтобы получить <style=cIsDamage>+10%</style> <style=cStack>(+10% за шт.)</style> скорость атаки и шанс <style=cIsDamage>20%</style> чтобы <style=cIsDamage>поджечь</style> врагов, нанеся <style=cIsDamage>100%</style> <style=cStack>(+50% за шт.)</style> базового урона.",
+       "ITEM_ILLEGAL_DRONE_COOLANT_LORE": "Глубоко в космосе нашли ультрахолодное соединение.",
+
+       "ITEM_SHARP_ANCHOR_NAME": "Острый якорь",
+       "ITEM_SHARP_ANCHOR_PICKUP": "Увеличивает урон всех ближайших союзников после неподвижного состояния в течение 1 секунды.",
+       "ITEM_SHARP_ANCHOR_DESCRIPTION": "Постояв неподвижно в течение <style=cIsDamage>1</style> секунды, создайте зону, которая увеличивает урон на <style=cIsDamage>20%</style> <style=cStack>(+20% за шт.)</style> для всех союзников в пределах <style=cIsDamage>2,3 м</style> <style=cStack>(+1,0 м за шт.)</style>.",
+       "ITEM_SHARP_ANCHOR_LORE": "\"Бросайте якорь! Нам никогда не выбраться вовремя!\"",
+
+       "ITEM_ABYSSAL_TALON_NAME": "Коготь бездны",
+       "ITEM_ABYSSAL_TALON_PICKUP": "Увеличивает урон в воздухе. <style=cIsVoid>Оскверняет все острые якоря</style>.",
+       "ITEM_ABYSSAL_TALON_DESCRIPTION": "Находясь в воздухе, ваш урон увеличивается на <style=cIsDamage>15%</style> <style=cStack>(+15% за шт.)</style>. <style=cIsVoid>Оскверняет все острые якоря</style>."
+	}
+}

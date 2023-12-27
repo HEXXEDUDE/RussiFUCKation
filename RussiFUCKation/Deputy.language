@@ -1,0 +1,28 @@
+{
+	"RU": {
+               "BOG_DEPUTY_BODY_NAME": "Заместительница",
+               "BOG_DEPUTY_BODY_DESCRIPTION": "<style=cShrine>Примечание моддера:</style> <style=cUserSetting>Большое спасибо за проявленный интерес к <color=#e1c100>The Deputy(Заместительница)</color>! Для обратной связи и сообщений об ошибках обращайтесь к <style=cIsUtility>Bog#4770</style> в Discord.</style>Депутат — высокооктейновый, сверхагрессивный демон скорости, который вершит правосудие с помощью своих двойных револьверов и смертельных атак ногами.<color=#CCD3E0>\n\n< ! > Нажатие на курок обладает идеальной точностью и не снижает урон, но его максимальная дальность весьма ограничена по сравнению с большинством других атак с применением огнестрельного оружия.\n\n< ! > Револьверы, выброшенные Швырянием пистолетов, всегда будут отдавать предпочтение ближайшему к ним врагу.\n\n< ! > Падающую звезду можно слегка наклонить кверху, если посмотреть наверх.\n\n< ! > Crashing Comet может нанести разрушительный взрывной урон при высоких значениях скорости движения. Используйте свое оружие, чтобы накопить заряды По горячим следам, а затем приступайте к убийству.\n\n\n",
+               "BOG_DEPUTY_BODY_SUBTITLE": "Лихая красота",
+               "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..и она ушла под бурные аплодисменты.",
+               "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..и она исчезла, её выступление наконец подошло к концу.",
+
+               "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "По умолчанию",
+
+               "BOG_DEPUTY_BODY_PASSIVE_NAME": "По горячим следам",
+               "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Заместительница может бежать в любом направлении. Удары по врагам своими навыками дают суммируемый положительный эффект <style=cIsUtility>скорости передвижения</style>.",
+               "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Нажатие на курок",
+               "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Подвижность</style>. Стреляйте из револьверов средней дальности, нанося <style=cIsDamage>150% урона</style>.",
+               "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Швыряние пистолетов",
+               "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Подвижность</style>. Бросьте два револьвера. Каждый револьвер нанесет ближайшему противнику <style=cIsDamage>6x100%</style> урона</style> выстрелом, а затем взорвется, нанеся <style=cIsDamage>300% урона</style>.",
+               "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Падающая звезда",
+               "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Оглушение</style>. Прыгните вперед и выстрелите во врагов под собой, нанеся <style=cIsDamage>4x150% урона</style>.",
+               "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Врезающаяся комета",
+               "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Пробивание</style>. Сделайте <style=cIsUtility>рывок</style> вперед и отскачите от врага, нанося <style=cIsDamage>800% урона</style>. <style=cIsUtility>Убийства сбрасывают время восстановления вашего вспомогательного навыка</style>.",
+               "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Пулевые небеса",
+               "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Подпрыгните высоко в воздух, а затем обрушьте вниз пули, которые нанесут <style=cIsDamage>150% урона</style> каждая. Количество выстрелов зависит от скорости атаки.",
+
+               "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Заместительница: мастерство",
+               "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Заместительницу, пройдите игру или уничтожьтесь на уровне сложности «Сезон дождей»",
+               "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Заместительница: мастерство"
+	}
+}
