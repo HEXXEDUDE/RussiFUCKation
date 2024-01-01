@@ -8,6 +8,7 @@
         "ROB_RAVAGER_BODY_OUTRO_FAILURE": "..и он исчез, его нелепое насилие подошло к концу..",
 
         "ROB_RAVAGER_BODY_DEFAULT_SKIN_NAME": "По умолчанию",
+        "ROB_RAVAGER_BODY_MONSOON_SKIN_NAME": "Божественный",
         "ROB_RAVAGER_BODY_MINECRAFT_SKIN_NAME": "Майнкрафт",
 
         "ROB_RAVAGER_BODY_PASSIVE_NAME": "Физическое мастерство",
@@ -17,13 +18,13 @@
         "ROB_RAVAGER_BODY_CANCEL_NAME": "Отменить",
         "ROB_RAVAGER_BODY_CANCEL_DESCRIPTION": "Отменить текущий навык.",
         "ROB_RAVAGER_BODY_PRIMARY_SLASH_NAME": "Кромсание",
-        "ROB_RAVAGER_BODY_PRIMARY_SLASH_DESCRIPTION": "Взмахните чтобы нанести <style=cIsDamage>390% урона</style>. Заполняет <style=cIsHealth>Колодец крови</style> при попадании, истощаясь когда он заполнен чтобы исцелить вас на <style=cIsHealing>75% от максимального здоровья</style> и временно <style=cIsDamage>улучшить ваши навыки</style>.",
+        "ROB_RAVAGER_BODY_PRIMARY_SLASH_DESCRIPTION": "Взмахните чтобы нанести <style=cIsDamage>320% урона</style>. Заполняет <style=cIsHealth>Колодец крови</style> при попадании, истощаяется когда он заполнен чтобы исцелить вас на <style=cIsHealing>75% от максимального здоровья</style> и временно <style=cIsDamage>улучшить ваши навыки</style>.",
         "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_NAME": "Рассечение",
-        "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_DESCRIPTION": "Выполните широкий <style=cIsUtility>оглушающий</style> разрез, нанеся <style=cIsDamage>750% урона</style>."
+        "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_DESCRIPTION": "Выполните широкий <style=cIsUtility>оглушающий</style> разрез, нанеся <style=cIsDamage>600% урона</style>.",
         "ROB_RAVAGER_BODY_UTILITY_HEAL_NAME": "Свёртывание крови",
         "ROB_RAVAGER_BODY_UTILITY_HEAL_DESCRIPTION": "Мгновенно осушите <style=cIsHealth>Колодец крови</style>, <style=cIsHealing>исцелитесь</style> выпитой кровью.",
-        "ROB_RAVAGER_BODY_UTILITY_BEAM_NAME": "Зловещий заряд",
-        "ROB_RAVAGER_BODY_UTILITY_BEAM_DESCRIPTION": "(Ждите <3)",
+        "ROB_RAVAGER_BODY_UTILITY_BEAM_NAME": "Зловещий порыв",
+        "ROB_RAVAGER_BODY_UTILITY_BEAM_DESCRIPTION": "<style=cIsHealth>Поглотите</style> входящие <style=cIsUtility>снаряды</style> чтобы зарядить разрушительный луч, который при полной зарядке наносит до <style=cIsDamage>2400% урона</style>.",
         "ROB_RAVAGER_BODY_SPECIAL_GRAB_NAME": "Жестокость",
         "ROB_RAVAGER_BODY_SPECIAL_GRAB_DESCRIPTION": "Сделайте выпад и <style=cIsUtility>схватите</style> ближайшего врага, а затем нанесите ему <style=cIsDamage>1000% урона</style>. Если это убьёт, <style=cIsHealth>поглотите</style> его, чтобы восстановить <style=cIsHealing>30% максимального здоровья</style>.",
         "ROB_RAVAGER_BODY_SPECIAL_GRAB_SCEPTER_NAME": "Беспощадное нападение",
@@ -31,6 +32,14 @@
         "KEYWORD_REDGUY_M1": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Махает быстрее.",
         "KEYWORD_REDGUY_M2": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Наносит больше урона <style=cIsUtility>врагам с низким уровнем здоровья</style>.",
         "KEYWORD_REDGUY_HEAL": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Предоставляет кратковременную <style=cIsUtility>неуязвимость</style> и дополнительно лечит.",
-        "KEYWORD_REDGUY_GRAB": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Тащит врага по земле, нанося постепенный урон."
+        "KEYWORD_REDGUY_GRAB": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Тащит врага по земле, нанося постепенный урон.",
+        "KEYWORD_REDGUY_M12": "<style=cKeywordName>Стойка удержания</style><style=cSub>Во время прыжка от стены войдите в <style=cIsUtility>стойку удержания</style>. Отпустите, чтобы нанести <style=cIsDamage>4-кратный урон</style> в зависимости от скорости.",
+
+        "ROB_RAVAGER_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "Окрасьте его в красный",
+        "ROB_RAVAGER_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "Окрасьте его в красный",
+        "ROB_RAVAGER_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "Нанесите 50 эффектов кровотечения на одного врага.",
+        "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_UNLOCKABLE_NAME": "Опустошитель: мастерство",
+        "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME": "Опустошитель: мастерство",
+        "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Опустошителя, пройдите игру или уничтожьтесь на уровне сложности «Сезон дождей»"
 	}
 }

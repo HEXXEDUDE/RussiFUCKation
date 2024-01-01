@@ -1,0 +1,144 @@
+{
+	"RU": {
+
+		"CLASSICITEMSRETURNS_ARTIFACT_CLOVER_NAME": "Артефакт клевера",
+		"CLASSICITEMSRETURNS_ARTIFACT_CLOVER_DESCRIPTION": "Все игроки начинают с 56-листным клевером в своем инвентаре.",
+
+		"CLASSICITEMSRETURNS_ITEM_MYSTERIOUSVIAL_NAME": "Таинственный флакон",
+		"CLASSICITEMSRETURNS_ITEM_MYSTERIOUSVIAL_PICKUP": "Увеличивает восстановление здоровья.",
+		"CLASSICITEMSRETURNS_ITEM_MYSTERIOUSVIAL_DESCRIPTION": "Увеличивает <style=cIsHealing>восстановление здоровья</style> на <style=cIsHealing>+1</style> <style=cStack>(+1 за шт.)</style> <style=cIsHealing>оч. здоровья в секунду</style>. Увеличивается с уровнем.",
+		"CLASSICITEMSRETURNS_ITEM_MYSTERIOUSVIAL_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_FIRESHIELD_NAME": "Огненный щит",
+		"CLASSICITEMSRETURNS_ITEM_FIRESHIELD_PICKUP": "Нанесите ответный удар, получив большой урон.",
+		"CLASSICITEMSRETURNS_ITEM_FIRESHIELD_DESCRIPTION": "Когда вы получаете урон, превышающий <style=cIsHealth>10% от вашего максимального здоровья</style>, щит взрывается, нанося <style=cIsDamage>200%</style> базового урона и <style=cIsDamage>поджигает</style> врагов нанося <style=cIsDamage>200%</style> <style=cStack>(+200% за шт.)</style> базового урона.",
+		"CLASSICITEMSRETURNS_ITEM_FIRESHIELD_LORE": "",
+
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_NAME": "Горький корень",
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_PICKUP": "Увеличивает максимальный запас здоровья.",
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_DESCRIPTION": "Увеличивает <style=cIsHealing>максимальный запас здоровья</style> на <style=cIsHealing>+8%</style> <style=cStack>(+8% за шт.)</style>.",
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_LORE": "",
+		//https://github.com/swuff-star/LostInTransit/blob/0fc3e096621a2ce65eef50f0e82db125c0730260/LIT/Assets/LostInTransit/Languages/en/LITLanguage_en.json#LL8C2-L8C2
+		//https://github.com/swuff-star/LostInTransit/blob/0fc3e096621a2ce65eef50f0e82db125c0730260/LIT/Assets/LostInTransit/Modules/Pickups/Items/BitterRoot.cs
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_NAME_ALT": "Горький корень",
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_PICKUP_ALT": "Восстанавливает здоровье за убийство.",
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_DESCRIPTION_ALT": "Увеличивает <style=cIsHealing>базовую регенерацию здоровья</style> на <style=cIsHealing>3 оз/с</style> на <style=cIsUtility>3с</style> <style=cStack>(+3с за шт.)</style> после убийства врага. Увеличивается с уровнем.",
+		"CLASSICITEMSRETURNS_ITEM_BITTERROOT_LORE_ALT": "",
+
+		"CLASSICITEMSRETURNS_ITEM_LIFESAVINGS_NAME": "Сбережения",
+		"CLASSICITEMSRETURNS_ITEM_LIFESAVINGS_PICKUP": "Вы будете регулярно получать золото.",
+		"CLASSICITEMSRETURNS_ITEM_LIFESAVINGS_DESCRIPTION": "Даёт <style=cIsUtility>1 <style=cStack>(+1 за шт.)</style> золота</style> каждые <style=cIsUtility>3 секунды</style>. Эффект усиливается со временем.",
+		"CLASSICITEMSRETURNS_ITEM_LIFESAVINGS_LORE": "",
+
+		"CLASSICITEMSRETURNS_ITEM_WEAKENONCONTACT_NAME": "Токсин",
+		"CLASSICITEMSRETURNS_ITEM_WEAKENONCONTACT_PICKUP": "Прикосновения ослабляют врагов для следущей атаки.",
+		"CLASSICITEMSRETURNS_ITEM_WEAKENONCONTACT_DESCRIPTION": "При <style=cIsDamage>прикосновении</style> <style=cIsDamage>заражает</style> врагов для следущей атаки на <style=cIsDamage>3 секунды</style> <style=cStack>(+3 секунды за шт.)</style>, в течение которых <style=cIsDamage>броня</style> будет <style=cIsDamage>снижена</style> на <style=cIsDamage>20</style>.",
+		"CLASSICITEMSRETURNS_ITEM_WEAKENONCONTACT_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_SNAKEEYES_NAME": "Глаза змеи",
+		"CLASSICITEMSRETURNS_ITEM_SNAKEEYES_PICKUP": "Использование святилищ увеличивает шанс /"Критического удара/".",
+		"CLASSICITEMSRETURNS_ITEM_SNAKEEYES_DESCRIPTION": "<style=cIsUtility>Использование святилища</style> увеличивает <style=cIsDamage>вероятность критического удара</style> на <style=cIsDamage>7,5%</style> <style=cStack>(+7,5% за шт.)</style> вплоть до <style=cIsDamage>6 раз</style>. Эффект сбрасывается в начале каждого этапа.",
+		"CLASSICITEMSRETURNS_ITEM_SNAKEEYES_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_PENNY_NAME": "Острая монетка",
+		"CLASSICITEMSRETURNS_ITEM_PENNY_PICKUP": "Немного увеличивает шанс критического удара. /"Критические удары/" дают вам золото.",
+		"CLASSICITEMSRETURNS_ITEM_PENNY_DESCRIPTION": "Повышает вероятность <style=cIsDamage>критического удара на 5%</style> <style=cStack>(+5% за шт.)</style>. <style=cIsDamage>Критические удары</style> приносят <style=cIsUtility>$1 <style=cStack>(+$1 за шт.)</style> золота</style>.",
+		"CLASSICITEMSRETURNS_ITEM_PENNY_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_ARCANEBLADES_NAME": "Загадочные коньки",
+		"CLASSICITEMSRETURNS_ITEM_ARCANEBLADES_PICKUP": "Ускоряет передвижение после активации телепорта.",
+		"CLASSICITEMSRETURNS_ITEM_ARCANEBLADES_DESCRIPTION": "Увеличивает <style=cIsUtility>скорость передвижения</style> на <style=cIsUtility>20% <style=cStack>(+20% за шт.)</style></style> после активации <style=cIsHealth>телепорта</style>.",
+		"CLASSICITEMSRETURNS_ITEM_ARCANEBLADES_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_MUCONSTRUCT_NAME": "Приятель",
+		"CLASSICITEMSRETURNS_ITEM_MUCONSTRUCT_PICKUP": "Периодически исцеляет после активации телепорта.",
+		"CLASSICITEMSRETURNS_ITEM_MUCONSTRUCT_DESCRIPTION": "Восстанавливает <style=cIsHealing>2,5%</style> от вашего <style=cIsHealing>максимального запаса здоровья</style> каждые <style=cIsHealing>5</style> <style=cStack>(-25% от времени за шт.)</style> секунд после активации <style=cIsHealth>телепорта</style>.",
+		"CLASSICITEMSRETURNS_ITEM_MUCONSTRUCT_LORE": "",
+
+		"CLASSICITEMSRETURNS_ITEM_56LEAFCLOVER_NAME": "56-листный клевер",
+		"CLASSICITEMSRETURNS_ITEM_56LEAFCLOVER_PICKUP": "С элитных врагов могут выпасть предметы.",
+		"CLASSICITEMSRETURNS_ITEM_56LEAFCLOVER_DESCRIPTION": "С элитных врагов с <style=cIsUtility>вероятностью 4,5%</style> <style=cStack>(+1,5% за шт.)</style> <style=cIsUtility>выпадают предметы</style>. <style=cIsUtility>Не зависит от удачи</style>.",
+		"CLASSICITEMSRETURNS_ITEM_56LEAFCLOVER_LORE": "",
+
+		"CLASSICITEMSRETURNS_ITEM_ARMSRACE_NAME": "Гонка вооружений",
+		"CLASSICITEMSRETURNS_ITEM_ARMSRACE_PICKUP": "Оснащает дроны взрывчаткой.",
+		"CLASSICITEMSRETURNS_ITEM_ARMSRACE_DESCRIPTION": "Дроны переодически выпускают <style=cIsDamage>4</style> ракеты <style=cStack>(+4 за шт.)</style>, наносящие <style=cIsDamage>200%</style> урона. Перезаряжается каждые <style=cIsUtility>10</style> секунд.",
+		"CLASSICITEMSRETURNS_ITEM_ARMSRACE_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_GOLDENGUN_NAME": "Золотой пистолет",
+		"CLASSICITEMSRETURNS_ITEM_GOLDENGUN_PICKUP": "Больше золота, больше урона.",
+		"CLASSICITEMSRETURNS_ITEM_GOLDENGUN_DESCRIPTION": "Наносит <style=cIsDamage>дополнительный урон</style> в зависимости от количества <style=cIsUtility>золота</style> вплоть до <style=cIsDamage>+40% урона</style> <style=cStack>(+20% за шт.)</style>. Достигает максимального бонуса при <style=cIsUtility>300 <style=cStack>(+150 за шт.)</style> ед. золота.</style> Усиливается со временем.",
+		"CLASSICITEMSRETURNS_ITEM_GOLDENGUN_LORE": "",
+
+		"CLASSICITEMSRETURNS_ITEM_PRISONSHACKLES_NAME": "Тюремные оковы",
+		"CLASSICITEMSRETURNS_ITEM_PRISONSHACKLES_PICKUP": "Замедляют врагов при попадании.",
+		"CLASSICITEMSRETURNS_ITEM_PRISONSHACKLES_DESCRIPTION": "При попадании <style=cIsDamage>замедляют</style> <style=cIsDamage>скорость атаки</style> врагов на <style=cIsDamage>-30%</style> на <style=cIsDamage>2 <style=cStack>(+2 секунды за шт.)</style> секунды</style>.",
+		"CLASSICITEMSRETURNS_ITEM_PRISONSHACKLES_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_SMARTSHOPPER_NAME": "Умная сумка",
+		"CLASSICITEMSRETURNS_ITEM_SMARTSHOPPER_PICKUP": "С врагов выпадает дополнительное золото.",
+		"CLASSICITEMSRETURNS_ITEM_SMARTSHOPPER_DESCRIPTION": "С убитых врагов выпадает на <style=cIsUtility>25%</style> <style=cStack>(+25% за шт.)</style> больше золота.",
+		"CLASSICITEMSRETURNS_ITEM_SMARTSHOPPER_LORE": "",
+
+		"CLASSICITEMSRETURNS_ITEM_TOUGHTIMES_NAME": "Тяжёлые времена",
+		"CLASSICITEMSRETURNS_ITEM_TOUGHTIMES_PICKUP": "Увеличивает броню.",
+		"CLASSICITEMSRETURNS_ITEM_TOUGHTIMES_DESCRIPTION": "Увеличивает показатель <style=cIsHealing>брони</style> на <style=cIsHealing>14</style> <style=cStack>(+14 за шт.)</style>.",
+		"CLASSICITEMSRETURNS_ITEM_TOUGHTIMES_LORE": "",
+				
+		"CLASSICITEMSRETURNS_ITEM_JEWEL_NAME": "Зафиксированный камень",
+		"CLASSICITEMSRETURNS_ITEM_JEWEL_PICKUP": "При взаимодействии с объектами создаёт барьер и даёт золото.",
+		"CLASSICITEMSRETURNS_ITEM_JEWEL_DESCRIPTION": "При взаимодействии с объектом на уровне даёт <style=cIsHealing>временный барьер</style> на <style=cIsHealing>25%</style> <style=cStack>(+15% за шт.)</style> от вашего <style=cIsHealing>максимального здоровья</style> и даёт <style=cIsUtility>$8</style> (эффект усиливается со временем).",
+		"CLASSICITEMSRETURNS_ITEM_JEWEL_LORE": "",
+
+
+		"CLASSICITEMSRETURNS_ITEM_THALLIUM_NAME": "Таллий",
+		"CLASSICITEMSRETURNS_ITEM_THALLIUM_PICKUP": "Шанс отравить врагов таллием при попадании.",
+		"CLASSICITEMSRETURNS_ITEM_THALLIUM_DESCRIPTION": "Даёт <style=cIsDamage>10%-ю вероятность</style> при попадании <style=cIsDamage>нанести</style> <style=cIsDamage>2x300% вражеского урона в секунду</style> и уменьшить скорость <style=cIsDamage>передвижения</style> цели на величину <style=cIsDamage>-100%</style> в течение <style=cIsDamage>3 секунд <style=cStack>(+1,5 секунды за шт.)</style> </style>.",
+		"CLASSICITEMSRETURNS_ITEM_THALLIUM_LORE": "",
+
+		"CLASSICITEMSRETURNS_ITEM_PERMAFROST_NAME": "Вечная мерзлота",
+		"CLASSICITEMSRETURNS_ITEM_PERMAFROST_PICKUP": "Даёт вероятность заморозить врагов при попадании.",
+		"CLASSICITEMSRETURNS_ITEM_PERMAFROST_DESCRIPTION": "При попадании вы с вероятностью <style=cIsUtility>3%</style> <style=cStack>(+3% за шт.)</style> можете <style=cIsUtility>заморозить</style> врагов на <style=cIsUtility>2 секунды</style>.",
+		"CLASSICITEMSRETURNS_ITEM_PERMAFROST_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_NAME": "Дурное кольцо",
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_PICKUP": "Критические удары снижают время любой перезарядки.",
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_DESCRIPTION": "Повышает <style=cIsDamage>вероятность критического удара</style> на <style=cIsDamage>{0}%</style>. <style=cIsDamage>Критические удары</style> <style=cIsUtility>снижают время любой перезарядки</style> на <style=cIsUtility>{1} <style=cStack>(+{2} секунды за шт.)</style> секунду</style>.",
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_LORE": "",
+		
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_NAME_ALT": "Дурное кольцо",
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_PICKUP_ALT": "Убийства снижают время любой перезарядки.",
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_DESCRIPTION_ALT": "<style=cIsDamage>Убийства</style> <style=cIsUtility>снижают время любой перезарядки</style> на <style=cIsUtility>1 <style=cStack>(+0,5 секунды за шт.)</style> секунду</style>.",
+		"CLASSICITEMSRETURNS_ITEM_WICKEDRING_LORE_ALT": "",
+
+		"CLASSICITEMSRETURNS_ITEM_A_NAME": "",
+		"CLASSICITEMSRETURNS_ITEM_A_PICKUP": "",
+		"CLASSICITEMSRETURNS_ITEM_A_DESCRIPTION": "",
+		"CLASSICITEMSRETURNS_ITEM_A_LORE": ""
+
+    "CLASSICITEMSRETURNS_EQUIPMENT_RESETSKILLCOOLDOWN_NAME": "Гигантский аметист",
+    "CLASSICITEMSRETURNS_EQUIPMENT_RESETSKILLCOOLDOWN_PICKUP": "Сбрасывает любую перезарядку",
+    "CLASSICITEMSRETURNS_EQUIPMENT_RESETSKILLCOOLDOWN_DESCRIPTION": "<style=cIsUtility>Сбрасывает</style> любую <style=cIsUtility> перезарядку</style>.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_RESETSKILLCOOLDOWN_LORE": "",
+
+    "CLASSICITEMSRETURNS_EQUIPMENT_CREATEGHOSTTARGETING_NAME": "Сосуд душ",
+    "CLASSICITEMSRETURNS_EQUIPMENT_CREATEGHOSTTARGETING_PICKUP": "Призывает призраков, чтобы те сражались на вашей стороне.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_CREATEGHOSTTARGETING_DESCRIPTION": "На <style=cIsUtility>30 секунд</style> создаёт <style=cIsUtility>трёх призраков врага</style>. <style=cIsDamage>Крупные</style> враги создаются <style=cIsDamage>один</style> раз. Призраки сражаются на вашей стороне, нанося <style=cIsDamage>100% урона</style>.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_CREATEGHOSTTARGETING_LORE": "",
+
+    "CLASSICITEMSRETURNS_EQUIPMENT_LOSTDOLL_NAME": "Потерянная кукла",
+    "CLASSICITEMSRETURNS_EQUIPMENT_LOSTDOLL_PICKUP": "Наносит врагу огромный урон за счёт вашего <style=cIsHealth>здоровья</style>.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_LOSTDOLL_DESCRIPTION": "Пожертвовав <style=cIsHealth>25% здоровья</style>, вы можете нанести врагу <style=cIsDamage>урон</style> в размере <style=cIsDamage>400% от вашего максимального запаса здоровья</style>.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_LOSTDOLL_LORE": "",
+
+    "CLASSICITEMSRETURNS_EQUIPMENT_DRUGS_NAME": "Таблетки",
+    "CLASSICITEMSRETURNS_EQUIPMENT_DRUGS_PICKUP": "Войдите в наркотическое безумие.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_DRUGS_DESCRIPTION": "Вы входите в <style=cIsDamage>наркотическое безумие</style>. Увеличивает <style=cIsDamage>урон</style> на <style=cIsDamage>20%</style> и <style=cIsDamage>скорость атаки</style> на <style=cIsDamage>40%</style> на <style=cIsUtility>8</style> секунд.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_DRUGS_LORE": "",
+	
+	"CLASSICITEMSRETURNS_EQUIPMENT_THQWIBS_NAME": "Тквиб",
+    "CLASSICITEMSRETURNS_EQUIPMENT_THQWIBS_PICKUP": "Позволяет выпустить стаю тквибов",
+    "CLASSICITEMSRETURNS_EQUIPMENT_THQWIBS_DESCRIPTION": "Позволяет выпустить стаю из <style=cIsDamage>12</style> тквибов, которые взрываются при ударе, нанося <style=cIsDamage>360% урона</style> каждый.",
+    "CLASSICITEMSRETURNS_EQUIPMENT_THQWIBS_LORE": "",
+	}
+}
