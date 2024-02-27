@@ -69,6 +69,8 @@ ClassicItemsReturns (сделан Risky_Sleeps, перевод сделал Radi
 
 # В Е Р С И И
 
+1.1.7 - Обновлён первод Ravager и Shaman. (наконец-то)
+
 1.1.6 - Добавлен перевод ClassicItemsReturns. Обновлён перевод Ravager.
 
 1.1.5 - Добавлен перевод Ravager и Deputy. Обновлён перевод Shaman.
