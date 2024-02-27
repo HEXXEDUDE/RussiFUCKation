@@ -58,11 +58,9 @@ ClassicItemsReturns (сделан Risky_Sleeps, перевод сделал Radi
 
 ![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/9d62d6e5-6f71-4b0d-a3cb-9d28ac2e9009)
 
-![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/5e644713-a31f-4df7-ac20-9c9e64206608)
+![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/3892f101-efe5-4743-b0ef-e3b0d0e12953)
 
-![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/fbf3992b-e450-470e-a362-df9dd7828f88)
-
-![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/06a00b5f-50e7-4216-9ed1-0db7b77a33ef)
+![image](https://github.com/HEXXEDUDE/RussiFUCKation/assets/122088385/8ae4bd56-ea44-4280-9482-01eae74d4610)
 
 
 # К О Н Т А К Т Ы
